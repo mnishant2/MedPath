@@ -1,0 +1,10 @@
+T22	C0039231 0 20	Increased heart rate
+#22	AnnotatorNotes T22	"C0039231", "Tachycardia", "Finding" ,"DISO"
+T23	C0018808 22 34	heart murmur
+#23	AnnotatorNotes T23	"C0018808", "Heart murmur", "Finding" ,"DISO"
+T24	C0020649 36 54	low blood pressure
+#24	AnnotatorNotes T24	"C0020649", "Hypotension", "Finding" ,"DISO"
+T25	C0005839 66 78	blood supply
+#25	AnnotatorNotes T25	"C0005839", "Blood supply aspects", "Body Part Organ or Organ Component" ,"ANAT"
+T26	C0027061 86 98	heart muscle
+#26	AnnotatorNotes T26	"C0027061", "Myocardium", "Tissue" ,"ANAT"

@@ -1,0 +1,4 @@
+T6	C0030705 3 11	patients
+#6	AnnotatorNotes T6	"C0030705", "Patients", "Patient or Disabled Group" ,"LIVB"
+T7	C0001779 34 37	age
+#7	AnnotatorNotes T7	"C0001779", "Age", "Organism Attribute" ,"PHYS"

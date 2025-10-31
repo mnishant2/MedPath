@@ -1,0 +1,8 @@
+T20	C0594372 15 21	Avonex
+#20	AnnotatorNotes T20	"C0594372", "Avonex", "Amino Acid Peptide or Protein|Pharmacologic Substance|Immunologic Factor" ,"CHEM"
+T21	C0026769 92 94	MS
+#21	AnnotatorNotes T21	"C0026769", "Multiple Sclerosis", "Disease or Syndrome" ,"DISO"
+T22	C0087111 0 9	Treatment
+#22	AnnotatorNotes T22	"C0087111", "Therapeutic procedure", "Therapeutic or Preventive Procedure" ,"PROC"
+T23	C1279889 59 64	worse
+#23	AnnotatorNotes T23	"C1279889", "Deterioration of status", "Finding" ,"DISO"

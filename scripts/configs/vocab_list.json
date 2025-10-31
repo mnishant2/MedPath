@@ -1,0 +1,48 @@
+{
+  "vocabularies": [
+    {
+      "id": 1,
+      "name": "SNOMED_CT"
+    },
+    {
+      "id": 2,
+      "name": "MESH"
+    },
+    {
+      "id": 3,
+      "name": "ICD9CM"
+    },
+    {
+      "id": 4,
+      "name": "NCI"
+    },
+    {
+      "id": 5,
+      "name": "LNC"
+    },
+    {
+      "id": 6,
+      "name": "MDR"
+    },
+    {
+      "id": 7,
+      "name": "LCH_NW"
+    },
+    {
+      "id": 8,
+      "name": "ICD10CM"
+    },
+    {
+      "id": 9,
+      "name": "GO"
+    },
+    {
+      "id": 10,
+      "name": "HPO"
+    },
+    {
+      "id": 11,
+      "name": "NCBI"
+    }
+  ]
+}

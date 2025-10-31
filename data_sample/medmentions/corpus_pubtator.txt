@@ -1,0 +1,790 @@
+25763772|t|DCTN4 as a modifier of chronic Pseudomonas aeruginosa infection in cystic fibrosis
+25763772|a|Pseudomonas aeruginosa (Pa) infection in cystic fibrosis (CF) patients is associated with worse long-term pulmonary disease and shorter survival, and chronic Pa infection (CPA) is associated with reduced lung function, faster rate of lung decline, increased rates of exacerbations and shorter survival. By using exome sequencing and extreme phenotype design, it was recently shown that isoforms of dynactin 4 (DCTN4) may influence Pa infection in CF, leading to worse respiratory disease. The purpose of this study was to investigate the role of DCTN4 missense variants on Pa infection incidence, age at first Pa infection and chronic Pa infection incidence in a cohort of adult CF patients from a single centre. Polymerase chain reaction and direct sequencing were used to screen DNA samples for DCTN4 variants. A total of 121 adult CF patients from the Cochin Hospital CF centre have been included, all of them carrying two CFTR defects: 103 developed at least 1 pulmonary infection with Pa, and 68 patients of them had CPA. DCTN4 variants were identified in 24% (29/121) CF patients with Pa infection and in only 17% (3/18) CF patients with no Pa infection. Of the patients with CPA, 29% (20/68) had DCTN4 missense variants vs 23% (8/35) in patients without CPA. Interestingly, p.Tyr263Cys tend to be more frequently observed in CF patients with CPA than in patients without CPA (4/68 vs 0/35), and DCTN4 missense variants tend to be more frequent in male CF patients with CPA bearing two class II mutations than in male CF patients without CPA bearing two class II mutations (P = 0.06). Our observations reinforce that DCTN4 missense variants, especially p.Tyr263Cys, may be involved in the pathogenesis of CPA in male CF.
+25763772	0	5	DCTN4	T116,T123	C4308010
+25763772	23	63	chronic Pseudomonas aeruginosa infection	T047	C0854135
+25763772	67	82	cystic fibrosis	T047	C0010674
+25763772	83	120	Pseudomonas aeruginosa (Pa) infection	T047	C0854135
+25763772	124	139	cystic fibrosis	T047	C0010674
+25763772	141	143	CF	T047	C0010674
+25763772	145	153	patients	T101	C0030705
+25763772	179	188	long-term	T079	C0443252
+25763772	189	206	pulmonary disease	T047	C0024115
+25763772	211	227	shorter survival	T169	C0220921
+25763772	233	253	chronic Pa infection	T047	C0854135
+25763772	255	258	CPA	T047	C0854135
+25763772	279	300	reduced lung function	T033	C0847557
+25763772	302	329	faster rate of lung decline	T033	C3160731
+25763772	341	346	rates	T081	C1521828
+25763772	350	363	exacerbations	T033	C4086268
+25763772	368	384	shorter survival	T169	C0220921
+25763772	395	411	exome sequencing	T063	C3640077
+25763772	416	440	extreme phenotype design	T052	C1707689
+25763772	469	477	isoforms	T116	C0597298
+25763772	481	491	dynactin 4	T116,T123	C4308010
+25763772	493	498	DCTN4	T116,T123	C4308010
+25763772	514	526	Pa infection	T047	C0854135
+25763772	530	532	CF	T047	C0010674
+25763772	551	570	respiratory disease	T047	C0035204
+25763772	592	597	study	T062	C2603343
+25763772	605	616	investigate	T169	C1292732
+25763772	629	634	DCTN4	T116,T123	C4308010
+25763772	635	643	missense	T033	C3845273
+25763772	644	652	variants	T116	C0597298
+25763772	656	668	Pa infection	T047	C0854135
+25763772	669	678	incidence	T081	C0021149
+25763772	680	683	age	T032	C0001779
+25763772	693	705	Pa infection	T047	C0854135
+25763772	710	730	chronic Pa infection	T047	C0854135
+25763772	731	740	incidence	T081	C0021149
+25763772	746	752	cohort	T098	C0599755
+25763772	756	761	adult	T100	C0001675
+25763772	762	764	CF	T047	C0010674
+25763772	765	773	patients	T101	C0030705
+25763772	788	794	centre	T073,T093	C0475309
+25763772	796	821	Polymerase chain reaction	T063	C0032520
+25763772	826	843	direct sequencing	T063	C3899368
+25763772	864	875	DNA samples	T026	C0444245
+25763772	880	885	DCTN4	T116,T123	C4308010
+25763772	886	894	variants	T116	C0597298
+25763772	911	916	adult	T100	C0001675
+25763772	917	919	CF	T047	C0010674
+25763772	920	928	patients	T101	C0030705
+25763772	938	963	Cochin Hospital CF centre	T073,T093	C0019994
+25763772	1009	1013	CFTR	T028	C1413365
+25763772	1014	1021	defects	T169	C0243067
+25763772	1048	1067	pulmonary infection	T047	C0876973
+25763772	1073	1075	Pa	T007	C0033809
+25763772	1084	1092	patients	T101	C0030705
+25763772	1105	1108	CPA	T047	C0854135
+25763772	1110	1115	DCTN4	T116,T123	C4308010
+25763772	1116	1124	variants	T116	C0597298
+25763772	1157	1159	CF	T047	C0010674
+25763772	1160	1168	patients	T101	C0030705
+25763772	1174	1186	Pa infection	T047	C0854135
+25763772	1210	1212	CF	T047	C0010674
+25763772	1213	1221	patients	T101	C0030705
+25763772	1230	1242	Pa infection	T047	C0854135
+25763772	1251	1259	patients	T101	C0030705
+25763772	1265	1268	CPA	T047	C0854135
+25763772	1286	1291	DCTN4	T116,T123	C4308010
+25763772	1292	1300	missense	T033	C3845273
+25763772	1301	1309	variants	T116	C0597298
+25763772	1327	1335	patients	T101	C0030705
+25763772	1344	1347	CPA	T047	C0854135
+25763772	1364	1375	p.Tyr263Cys	T116	C0597298
+25763772	1415	1417	CF	T047	C0010674
+25763772	1418	1426	patients	T101	C0030705
+25763772	1432	1435	CPA	T047	C0854135
+25763772	1444	1452	patients	T101	C0030705
+25763772	1461	1464	CPA	T047	C0854135
+25763772	1485	1490	DCTN4	T116,T123	C4308010
+25763772	1491	1499	missense	T033	C3845273
+25763772	1500	1508	variants	T116	C0597298
+25763772	1537	1541	male	T032	C0086582
+25763772	1542	1544	CF	T047	C0010674
+25763772	1545	1553	patients	T101	C0030705
+25763772	1559	1562	CPA	T047	C0854135
+25763772	1575	1593	class II mutations	T045	C0026882
+25763772	1602	1606	male	T032	C0086582
+25763772	1607	1609	CF	T047	C0010674
+25763772	1610	1618	patients	T101	C0030705
+25763772	1627	1630	CPA	T047	C0854135
+25763772	1643	1661	class II mutations	T045	C0026882
+25763772	1706	1711	DCTN4	T116,T123	C4308010
+25763772	1712	1720	missense	T033	C3845273
+25763772	1721	1729	variants	T116	C0597298
+25763772	1742	1753	p.Tyr263Cys	T116	C0597298
+25763772	1778	1790	pathogenesis	T046	C0699748
+25763772	1794	1797	CPA	T047	C0854135
+25763772	1801	1805	male	T032	C0086582
+25763772	1806	1808	CF	T047	C0010674
+
+25847295|t|Nonylphenol diethoxylate inhibits apoptosis induced in PC12 cells
+25847295|a|Nonylphenol and short-chain nonylphenol ethoxylates such as NP2 EO are present in aquatic environment as wastewater contaminants, and their toxic effects on aquatic species have been reported. Apoptosis has been shown to be induced by serum deprivation or copper treatment. To understand the toxicity of nonylphenol diethoxylate, we investigated the effects of NP2 EO on apoptosis induced by serum deprivation and copper by using PC12 cell system. Nonylphenol diethoxylate itself showed no toxicity and recovered cell viability from apoptosis. In addition, nonylphenol diethoxylate decreased DNA fragmentation caused by apoptosis in PC12 cells. This phenomenon was confirmed after treating apoptotic PC12 cells with nonylphenol diethoxylate, whereas the cytochrome c release into the cytosol decreased as compared to that in apoptotic cells not treated with nonylphenol diethoxylate s. Furthermore, Bax contents in apoptotic cells were reduced after exposure to nonylphenol diethoxylate. Thus, nonylphenol diethoxylate has the opposite effect on apoptosis in PC12 cells compared to nonylphenol, which enhances apoptosis induced by serum deprivation. The difference in structure of the two compounds is hypothesized to be responsible for this phenomenon. These results indicated that nonylphenol diethoxylate has capability to affect cell differentiation and development and has potentially harmful effect on organisms because of its unexpected impact on apoptosis. © 2015 Wiley Periodicals, Inc. Environ Toxicol 31: 1389-1398, 2016.
+25847295	0	24	Nonylphenol diethoxylate	T131	C1254354
+25847295	25	33	inhibits	T052	C3463820
+25847295	34	43	apoptosis	T043	C0162638
+25847295	44	51	induced	T169	C0205263
+25847295	55	65	PC12 cells	T025	C0085262
+25847295	66	77	Nonylphenol	T131	C1254354
+25847295	82	117	short-chain nonylphenol ethoxylates	T131	C1254354
+25847295	126	132	NP2 EO	T131	C1254354
+25847295	137	144	present	T033	C0150312
+25847295	148	167	aquatic environment	T067	C0563034
+25847295	171	181	wastewater	T069	C3494254
+25847295	182	194	contaminants	T167	C2827365
+25847295	206	219	toxic effects	T037	C0600688
+25847295	223	238	aquatic species	T001	C0596121
+25847295	259	268	Apoptosis	T043	C0162638
+25847295	290	297	induced	T169	C0205263
+25847295	301	306	serum	T031	C0229671
+25847295	307	318	deprivation	T080	C0871712
+25847295	322	328	copper	T121,T123,T196	C0009968
+25847295	329	338	treatment	T169	C1522326
+25847295	358	366	toxicity	T080	C0040539
+25847295	370	394	nonylphenol diethoxylate	T131	C1254354
+25847295	416	426	effects of	T080	C1704420
+25847295	427	433	NP2 EO	T131	C1254354
+25847295	437	446	apoptosis	T043	C0162638
+25847295	447	454	induced	T169	C0205263
+25847295	458	463	serum	T031	C0229671
+25847295	464	475	deprivation	T080	C0871712
+25847295	480	486	copper	T121,T123,T196	C0009968
+25847295	496	512	PC12 cell system	T025	C0085262
+25847295	514	538	Nonylphenol diethoxylate	T131	C1254354
+25847295	579	593	cell viability	T043	C0007620
+25847295	599	608	apoptosis	T043	C0162638
+25847295	623	647	nonylphenol diethoxylate	T131	C1254354
+25847295	648	657	decreased	T081	C0205216
+25847295	658	675	DNA fragmentation	T044	C0376669
+25847295	686	695	apoptosis	T043	C0162638
+25847295	699	709	PC12 cells	T025	C0085262
+25847295	716	726	phenomenon	T067	C1882365
+25847295	747	755	treating	T169	C1522326
+25847295	756	765	apoptotic	T080	C1516044
+25847295	766	776	PC12 cells	T025	C0085262
+25847295	782	806	nonylphenol diethoxylate	T131	C1254354
+25847295	820	832	cytochrome c	T116,T126	C0010749
+25847295	850	857	cytosol	T026	C1383501
+25847295	858	867	decreased	T081	C0205216
+25847295	891	906	apoptotic cells	T025	C0007634
+25847295	911	918	treated	T169	C1522326
+25847295	924	948	nonylphenol diethoxylate	T131	C1254354
+25847295	965	968	Bax	T116,T123	C0219474
+25847295	969	977	contents	T077	C0456205
+25847295	981	996	apoptotic cells	T025	C0007634
+25847295	1002	1009	reduced	T080	C0392756
+25847295	1016	1027	exposure to	T080	C0332157
+25847295	1028	1052	nonylphenol diethoxylate	T131	C1254354
+25847295	1060	1084	nonylphenol diethoxylate	T131	C1254354
+25847295	1093	1108	opposite effect	T080	C1280500
+25847295	1112	1121	apoptosis	T043	C0162638
+25847295	1125	1135	PC12 cells	T025	C0085262
+25847295	1148	1159	nonylphenol	T131	C1254354
+25847295	1167	1175	enhances	T052	C2349975
+25847295	1176	1185	apoptosis	T043	C0162638
+25847295	1186	1193	induced	T169	C0205263
+25847295	1197	1202	serum	T031	C0229671
+25847295	1203	1214	deprivation	T080	C0871712
+25847295	1220	1230	difference	T080	C1705242
+25847295	1234	1243	structure	T082	C0678594
+25847295	1255	1264	compounds	T103	C0220806
+25847295	1268	1280	hypothesized	T078	C1512571
+25847295	1308	1318	phenomenon	T067	C1882365
+25847295	1326	1333	results	T033	C2825142
+25847295	1349	1373	nonylphenol diethoxylate	T131	C1254354
+25847295	1378	1388	capability	T080	C2698977
+25847295	1399	1419	cell differentiation	T043	C0007589
+25847295	1424	1435	development	T039	C0243107
+25847295	1444	1455	potentially	T080	C3245505
+25847295	1456	1470	harmful effect	T037	C0600688
+25847295	1474	1483	organisms	T001	C0029235
+25847295	1510	1516	impact	T080	C4049986
+25847295	1520	1529	apoptosis	T043	C0162638
+
+26316050|t|Prevascularized silicon membranes for the enhancement of transport to implanted medical devices
+26316050|a|Recent advances in drug delivery and sensing devices for in situ applications are limited by the diffusion -limiting foreign body response of fibrous encapsulation. In this study, we fabricated prevascularized synthetic device ports to help mitigate this limitation. Membranes with rectilinear arrays of square pores with widths ranging from 40 to 200 μm were created using materials (50 μm thick double-sided polished silicon) and processes (photolithography and directed reactive ion etching) common in the manufacturing of microfabricated sensors. Vascular endothelial cells responded to membrane geometry by either forming vascular tubes that extended through the pore or completely filling membrane pores after 4 days in culture. Although tube formation began to predominate overgrowth around 75 μm and continued to increase at even larger pore sizes, tubes formed at these large pore sizes were not completely round and had relatively thin walls. Thus, the optimum range of pore size for prevascularization of these membranes was estimated to be 75-100 μm. This study lays the foundation for creating a prevascularized port that can be used to reduce fibrous encapsulation and thus enhance diffusion to implanted medical devices and sensors. © 2015 Wiley Periodicals, Inc. J Biomed Mater Res Part B: Appl Biomater, 104B: 1602-1609, 2016.
+26316050	0	15	Prevascularized	T169	C0042382
+26316050	16	23	silicon	T109,T122	C0037114
+26316050	24	33	membranes	T073	C1706182
+26316050	42	53	enhancement	T052	C2349975
+26316050	57	66	transport	T169	C1705822
+26316050	70	95	implanted medical devices	T033	C2828363
+26316050	115	128	drug delivery	T074	C0085104
+26316050	133	148	sensing devices	T073	C0183210
+26316050	153	160	in situ	T082	C0444498
+26316050	161	173	applications	T058	C0185125
+26316050	178	185	limited	T169	C0439801
+26316050	193	202	diffusion	T070	C0012222
+26316050	213	234	foreign body response	T033	C1708386
+26316050	238	245	fibrous	T080	C0439709
+26316050	246	259	encapsulation	T067	C2348438
+26316050	290	305	prevascularized	T169	C0042382
+26316050	306	328	synthetic device ports	T073	C1706409
+26316050	337	345	mitigate	T067	C1553901
+26316050	351	361	limitation	T169	C0449295
+26316050	363	372	Membranes	T073	C1706182
+26316050	378	396	rectilinear arrays	T082	C1254362
+26316050	400	406	square	T082	C0205120
+26316050	407	412	pores	T082	C1254362
+26316050	418	424	widths	T081	C0487742
+26316050	470	479	materials	T167	C0520510
+26316050	487	492	thick	T080	C1280412
+26316050	493	505	double-sided	T082	C1254362
+26316050	506	522	polished silicon	T109,T122	C0037114
+26316050	528	537	processes	T067	C1522240
+26316050	539	555	photolithography	T057	C0599199
+26316050	560	589	directed reactive ion etching	T067	C1254366
+26316050	605	618	manufacturing	T057	C0870840
+26316050	622	645	microfabricated sensors	T073	C0183210
+26316050	647	673	Vascular endothelial cells	T025	C1257792
+26316050	687	704	membrane geometry	T073	C1706182
+26316050	723	737	vascular tubes	T023	C0005847
+26316050	743	751	extended	T082	C0231449
+26316050	764	768	pore	T082	C1254362
+26316050	772	782	completely	T080	C0205197
+26316050	783	790	filling	T052	C0441655
+26316050	783	790	filling	T052	C0441655
+26316050	791	799	membrane	T073	C1706182
+26316050	800	805	pores	T082	C1254362
+26316050	822	829	culture	T059	C1331092
+26316050	840	854	tube formation	T169	C0042382
+26316050	864	875	predominate	T080	C0332251
+26316050	876	886	overgrowth	T033	C1849265
+26316050	917	925	increase	T169	C0442805
+26316050	934	940	larger	T081	C0549177
+26316050	941	951	pore sizes	T081	C3829176
+26316050	953	965	tubes formed	T169	C0042382
+26316050	975	980	large	T081	C0549177
+26316050	981	991	pore sizes	T081	C3829176
+26316050	1001	1011	completely	T080	C0205197
+26316050	1012	1017	round	T082	C0332490
+26316050	1037	1041	thin	T080	C0205168
+26316050	1042	1047	walls	T082	C0442069
+26316050	1059	1066	optimum	T080	C2698651
+26316050	1067	1072	range	T081	C1514721
+26316050	1076	1085	pore size	T081	C3829176
+26316050	1090	1108	prevascularization	T169	C0042382
+26316050	1118	1127	membranes	T073	C1706182
+26316050	1132	1141	estimated	T081	C0750572
+26316050	1164	1169	study	T062	C2603343
+26316050	1205	1220	prevascularized	T169	C0042382
+26316050	1221	1225	port	T073	C1706409
+26316050	1253	1260	fibrous	T080	C0439709
+26316050	1261	1274	encapsulation	T067	C2348438
+26316050	1284	1291	enhance	T052	C2349975
+26316050	1292	1301	diffusion	T070	C0012222
+26316050	1305	1330	implanted medical devices	T033	C2828363
+26316050	1335	1342	sensors	T073	C0183210
+
+26406200|t|Seated maximum flexion: An alternative to standing maximum flexion for determining presence of flexion - relaxation?
+26406200|a|The flexion - relaxation phenomenon (FRP) in standing is a specific and sensitive diagnostic tool for low back pain. Seated flexion as an alternative could be beneficial for certain populations, yet the behavior of the trunk extensors during seated maximum flexion compared to standing flexion remains unclear. Compare FRP occurrences and spine angles between seated and standing flexion postures in three levels of the erector spinae muscles. Thirty-one participants free of back pain performed seated and standing maximum trunk flexion. Electromyographical signals were recorded from the bilateral lumbar (L3), lower-thoracic (T9), and upper-thoracic (T4) erector spinae and assessed for the occurrence of FRP. Spine angles corresponding to FRP onset and cessation were determined, and FRP occurrences and angles were compared between posture and muscle. FRP occurrence was similar in standing and seated maximum flexion across all muscles, with the lumbar muscles showing the greatest consistency. Standing FRP onset and cessation angles were consistently greater than the corresponding seated FRP angles. Considering the similar number of FRP occurrences, seated maximum flexion may constitute an objective criterion for low back pain diagnosis. Future work should seek to confirm the utility of this test in individuals with low back pain.
+26406200	0	6	Seated	T033	C0277814
+26406200	7	14	maximum	T081	C0806909
+26406200	15	22	flexion	T042	C0231452
+26406200	27	38	alternative	T077	C1523987
+26406200	42	50	standing	T082	C0231472
+26406200	51	58	maximum	T081	C0806909
+26406200	59	66	flexion	T042	C0231452
+26406200	95	102	flexion	T042	C0231452
+26406200	105	115	relaxation	T052	C0035028
+26406200	121	128	flexion	T042	C0231452
+26406200	131	141	relaxation	T052	C0035028
+26406200	142	152	phenomenon	T067	C1882365
+26406200	154	157	FRP	T067	C1882365
+26406200	162	170	standing	T082	C0231472
+26406200	176	184	specific	T080	C0205369
+26406200	189	198	sensitive	T169	C0332324
+26406200	199	214	diagnostic tool	T060	C0430022
+26406200	219	232	low back pain	T184	C0024031
+26406200	234	248	Seated flexion	T042	C0231452
+26406200	255	266	alternative	T077	C1523987
+26406200	299	310	populations	T098	C1257890
+26406200	336	351	trunk extensors	T024	C0026845
+26406200	359	365	seated	T033	C0277814
+26406200	366	373	maximum	T081	C0806909
+26406200	374	381	flexion	T042	C0231452
+26406200	394	402	standing	T082	C0231472
+26406200	403	410	flexion	T042	C0231452
+26406200	436	439	FRP	T067	C1882365
+26406200	456	461	spine	T023	C0037949
+26406200	462	468	angles	T082	C0205143
+26406200	477	483	seated	T033	C0277814
+26406200	488	496	standing	T082	C0231472
+26406200	497	504	flexion	T042	C0231452
+26406200	505	513	postures	T032	C0231476
+26406200	523	529	levels	T080	C0441889
+26406200	537	559	erector spinae muscles	T023	C0224301
+26406200	572	584	participants	T098	C0679646
+26406200	593	602	back pain	T184	C0004604
+26406200	613	619	seated	T033	C0277814
+26406200	624	632	standing	T082	C0231472
+26406200	633	640	maximum	T081	C0806909
+26406200	641	646	trunk	T029	C0460005
+26406200	647	654	flexion	T042	C0231452
+26406200	656	683	Electromyographical signals	T067	C1710082
+26406200	707	728	bilateral lumbar (L3)	T023	C0223522
+26406200	730	749	lower-thoracic (T9)	T023	C0459954
+26406200	755	774	upper-thoracic (T4)	T023	C1180431
+26406200	775	789	erector spinae	T023	C0224301
+26406200	794	802	assessed	T052	C1516048
+26406200	825	828	FRP	T067	C1882365
+26406200	830	842	Spine angles	T082	C0205143
+26406200	860	863	FRP	T067	C1882365
+26406200	874	883	cessation	T052	C1880019
+26406200	905	908	FRP	T067	C1882365
+26406200	925	931	angles	T082	C0205143
+26406200	937	945	compared	T052	C1707455
+26406200	954	961	posture	T032	C0231476
+26406200	966	972	muscle	T024	C0026845
+26406200	974	977	FRP	T067	C1882365
+26406200	1004	1012	standing	T082	C0231472
+26406200	1017	1023	seated	T033	C0277814
+26406200	1024	1031	maximum	T081	C0806909
+26406200	1032	1039	flexion	T042	C0231452
+26406200	1051	1058	muscles	T024	C0026845
+26406200	1069	1083	lumbar muscles	T024	C0026845
+26406200	1105	1116	consistency	T080	C0332529
+26406200	1118	1126	Standing	T082	C0231472
+26406200	1127	1130	FRP	T067	C1882365
+26406200	1141	1150	cessation	T052	C1880019
+26406200	1207	1213	seated	T033	C0277814
+26406200	1214	1217	FRP	T067	C1882365
+26406200	1260	1263	FRP	T067	C1882365
+26406200	1277	1283	seated	T033	C0277814
+26406200	1284	1291	maximum	T081	C0806909
+26406200	1292	1299	flexion	T042	C0231452
+26406200	1328	1337	criterion	T078	C0243161
+26406200	1342	1355	low back pain	T184	C0024031
+26406200	1356	1365	diagnosis	T033	C0011900
+26406200	1422	1426	test	T169	C0039593
+26406200	1430	1441	individuals	T098	C0027361
+26406200	1447	1460	low back pain	T184	C0024031
+
+26424709|t|The Relationship Between Distance and Post-operative Visit Attendance Following Medical Male Circumcision in Nyanza Province, Kenya
+26424709|a|To date, there is no research on voluntary medical male circumcision (VMMC) catchment areas or the relationship between distance to a VMMC facility and attendance at a post-operative follow-up visit. We analyzed data from a randomly selected subset of males self-seeking circumcision at one of 16 participating facilities in Nyanza Province, Kenya between 2008 and 2010. Among 1437 participants, 46.7 % attended follow-up. The median distance from residence to utilized facility was 2.98 km (IQR 1.31-5.38). Nearly all participants (98.8 %) lived within 5 km from a facility, however, 26.3 % visited a facility more than 5 km away. Stratified results demonstrated that among those utilizing fixed facilities, greater distance was associated with higher odds of follow-up non-attendance (OR 5.01-10km vs. 0-1km = 1.71, 95 % CI 1.08, 2.70, p = 0.02; OR >10km vs. 0-1 km = 2.80, 95 % CI 1.26, 6.21, p = 0.01), adjusting for age and district of residence. We found 5 km marked the threshold distance beyond which follow-up attendance significantly dropped. These results demonstrate distance is an important predictor of attending follow-up, and this relationship appears to be modified by facility type.
+26424709	4	16	Relationship	T080	C0439849
+26424709	25	33	Distance	T081	C0012751
+26424709	38	52	Post-operative	T033	C0241311
+26424709	53	58	Visit	T053	C0545082
+26424709	59	69	Attendance	T052	C2827364
+26424709	80	87	Medical	T169	C0205476
+26424709	88	105	Male Circumcision	T061	C0008819
+26424709	109	124	Nyanza Province	T083	C1514578
+26424709	126	131	Kenya	T083	C0022558
+26424709	153	161	research	T062	C0035168
+26424709	165	174	voluntary	T055	C0439656
+26424709	175	182	medical	T169	C0205476
+26424709	183	200	male circumcision	T061	C0008819
+26424709	202	206	VMMC	T061	C0008819
+26424709	208	223	catchment areas	T083	C0007403
+26424709	231	243	relationship	T080	C0439849
+26424709	252	260	distance	T081	C0012751
+26424709	266	270	VMMC	T061	C0008819
+26424709	271	279	facility	T073,T093	C0018704
+26424709	284	294	attendance	T052	C2827364
+26424709	300	314	post-operative	T033	C0241311
+26424709	315	330	follow-up visit	T058	C0589121
+26424709	335	343	analyzed	T062	C0936012
+26424709	344	348	data	T078	C1511726
+26424709	356	364	randomly	T080	C0439605
+26424709	365	373	selected	T052	C1707391
+26424709	374	380	subset	T185	C1515021
+26424709	384	389	males	T098	C0025266
+26424709	390	415	self-seeking circumcision	T061	C0008819
+26424709	429	442	participating	T169	C0679823
+26424709	443	453	facilities	T073,T093	C0018704
+26424709	457	472	Nyanza Province	T083	C1514578
+26424709	474	479	Kenya	T083	C0022558
+26424709	514	526	participants	T098	C0679646
+26424709	535	543	attended	T169	C1456498
+26424709	544	553	follow-up	T058	C1522577
+26424709	559	565	median	T082	C2939193
+26424709	566	574	distance	T081	C0012751
+26424709	580	589	residence	T082	C0237096
+26424709	602	610	facility	T073,T093	C0018704
+26424709	624	627	IQR	T081	C1711350
+26424709	651	663	participants	T098	C0679646
+26424709	673	678	lived	T052	C2982691
+26424709	698	706	facility	T073,T093	C0018704
+26424709	724	731	visited	T053	C0545082
+26424709	734	742	facility	T073,T093	C0018704
+26424709	764	774	Stratified	T080	C0205363
+26424709	775	782	results	T169	C1274040
+26424709	823	828	fixed	T169	C0205245
+26424709	829	839	facilities	T073,T093	C0018704
+26424709	841	848	greater	T081	C1704243
+26424709	849	857	distance	T081	C0012751
+26424709	862	877	associated with	T080	C0332281
+26424709	878	884	higher	T080	C0205250
+26424709	885	889	odds	T081	C0028873
+26424709	893	902	follow-up	T058	C1522577
+26424709	903	917	non-attendance	T052	C2827364
+26424709	919	921	OR	T081	C0028873
+26424709	955	957	CI	T081	C0009667
+26424709	980	982	OR	T081	C0028873
+26424709	1013	1015	CI	T081	C0009667
+26424709	1053	1056	age	T032	C0001779
+26424709	1061	1069	district	UnknownType	C0681784
+26424709	1073	1082	residence	T082	C0237096
+26424709	1109	1118	threshold	T080	C0449864
+26424709	1119	1127	distance	T081	C0012751
+26424709	1141	1150	follow-up	T058	C1522577
+26424709	1151	1161	attendance	T052	C2827364
+26424709	1162	1175	significantly	T078	C0750502
+26424709	1176	1183	dropped	T081	C0205216
+26424709	1191	1198	results	T169	C1274040
+26424709	1211	1219	distance	T081	C0012751
+26424709	1236	1245	predictor	T078	C2698872
+26424709	1249	1258	attending	T169	C1999232
+26424709	1259	1268	follow-up	T058	C1522577
+26424709	1279	1291	relationship	T080	C0439849
+26424709	1306	1317	modified by	T080	C0205349
+26424709	1318	1326	facility	T073,T093	C0018704
+26424709	1327	1331	type	T080	C0332307
+
+26476440|t|Promoting lifestyle behaviour change and well-being in hospital patients: a pilot study of an evidence-based psychological intervention
+26476440|a|Lifestyle risk behaviours show an inverse social gradient, clustering in vulnerable groups. We designed and piloted an intervention to address barriers to lifestyle behaviour change among hospital patients. We designed our intervention using effective components of behaviour change interventions informed by psychological theory. Delivered by a health psychologist based at the Royal Free London NHS Foundation Trust, the 4-week intervention included detailed baseline assessment, personalized goal setting, psychological skills development, motivation support and referral to community services. Primary outcomes were feasibility and patient acceptability. We also evaluated changes to health and well-being. From 1 July 2013 to 31 September 2014, 686 patients were referred, 338 (49.3%) attended a first appointment and 172 (25.1%) completed follow-up. Furthermore, 72.1% of attenders were female with the median age 55 years and poor self-reported baseline health. After 4 weeks, self-efficacy, health and well-being scores significantly improved: 63% of lifestyle goals and 89% of health management goals were fully achieved; 58% of referrals to community lifestyle behaviour change services and 79% of referrals to other services (e.g. Citizen's Advice Bureau) were accepted; 99% were satisfied / very satisfied with the service. Our hospital-based intervention was feasible, acceptable and showed preliminary health and well-being gains.
+26476440	0	9	Promoting	T052	C0033414
+26476440	10	36	lifestyle behaviour change	T054	C0870811
+26476440	41	51	well-being	T033	C0424578
+26476440	55	72	hospital patients	T101	C0021562
+26476440	76	87	pilot study	T062	C0031928
+26476440	109	122	psychological	T169	C0205486
+26476440	123	135	intervention	T061	C0184661
+26476440	146	161	risk behaviours	T055	C0086931
+26476440	170	177	inverse	T080	C0439850
+26476440	178	184	social	T169	C0728831
+26476440	185	193	gradient	T081	C0812409
+26476440	195	205	clustering	T081	C1704332
+26476440	209	226	vulnerable groups	T098	C1257890
+26476440	255	267	intervention	T061	C0184661
+26476440	291	317	lifestyle behaviour change	T054	C0870811
+26476440	324	341	hospital patients	T101	C0021562
+26476440	359	371	intervention	T061	C0184661
+26476440	402	418	behaviour change	T055	C0542299
+26476440	419	432	interventions	T061	C0184661
+26476440	445	465	psychological theory	T170	C0033906
+26476440	482	501	health psychologist	T097	C1555909
+26476440	515	553	Royal Free London NHS Foundation Trust	T093	C0596660
+26476440	566	578	intervention	T061	C0184661
+26476440	597	616	baseline assessment	T058	C0558020
+26476440	618	630	personalized	T080	C1709510
+26476440	631	643	goal setting	T061	C0700350
+26476440	645	677	psychological skills development	T041	C0678967
+26476440	679	697	motivation support	T058	C0600015
+26476440	702	713	referral to	T058	C2585021
+26476440	714	732	community services	T095	C0009482
+26476440	734	750	Primary outcomes	T169	C1274040
+26476440	772	779	patient	T101	C0030705
+26476440	780	793	acceptability	T080	C0000898
+26476440	813	820	changes	T169	C0392747
+26476440	824	830	health	T078	C0018684
+26476440	835	845	well-being	T033	C0424578
+26476440	854	858	July	T080	C3829447
+26476440	870	879	September	T079	C3828193
+26476440	890	898	patients	T101	C0030705
+26476440	904	912	referred	T169	C0205543
+26476440	943	954	appointment	T079	C0003629
+26476440	981	990	follow-up	T058	C1522577
+26476440	1014	1023	attenders	T097	C1555321
+26476440	1029	1035	female	T032	C0086287
+26476440	1052	1055	age	T032	C0001779
+26476440	1059	1064	years	T079	C0439234
+26476440	1069	1103	poor self-reported baseline health	T080	C0018759
+26476440	1113	1118	weeks	T079	C0439230
+26476440	1120	1133	self-efficacy	T041	C0600564
+26476440	1135	1141	health	T078	C0018684
+26476440	1146	1163	well-being scores	T081	C0449820
+26476440	1164	1186	significantly improved	T033	C0184511
+26476440	1195	1210	lifestyle goals	T033	C4062319
+26476440	1222	1239	health management	T058	C1328735
+26476440	1240	1245	goals	T170	C0018017
+26476440	1257	1265	achieved	T033	C1272277
+26476440	1274	1286	referrals to	T058	C2585021
+26476440	1287	1296	community	T095	C0009482
+26476440	1297	1323	lifestyle behaviour change	T054	C0870811
+26476440	1363	1371	services	T058	C0018747
+26476440	1378	1401	Citizen's Advice Bureau	T097	C1522486
+26476440	1427	1436	satisfied	T170	C4084799
+26476440	1439	1453	very satisfied	T033	C3840671
+26476440	1463	1470	service	T058	C0018747
+26476440	1476	1503	hospital-based intervention	T061	C0184661
+26476440	1518	1528	acceptable	T080	C1879533
+26476440	1540	1579	preliminary health and well-being gains	T033	C0243095
+
+26797704|t|The Impact of Deployment on Parental, Family and Child Adjustment in Military Families
+26797704|a|Since 9/11, military service in the United States has been characterized by wartime deployments and reintegration challenges that contribute to a context of stress for military families. Research indicates the negative impact of wartime deployment on the well being of service members, military spouses, and children. Yet, few studies have considered how parental deployments may affect adjustment in young children and their families. Using deployment records and parent - reported measures from primary caregiving (N = 680) and military (n = 310) parents, we examined the influence of deployment on adjustment in military families with children ages 0-10 years. Greater deployment exposure was related to impaired family functioning and marital instability. Parental depressive and posttraumatic stress symptoms were associated with impairments in social emotional adjustment in young children, increased anxiety in early childhood, and adjustment problems in school-age children. Conversely, parental sensitivity was associated with improved social and emotional outcomes across childhood. These findings provide guidance to developing preventive approaches for military families with young children.
+26797704	14	24	Deployment	T052	C2825812
+26797704	28	36	Parental	T099	C0030551
+26797704	38	44	Family	T099	C0015576
+26797704	49	54	Child	T100	C0008059
+26797704	55	65	Adjustment	T055	C0376209
+26797704	69	86	Military Families	T099	C3850016
+26797704	99	115	military service	T097	C1550414
+26797704	123	136	United States	T083	C0041703
+26797704	163	170	wartime	T079	C1254367
+26797704	171	182	deployments	T052	C2825812
+26797704	244	250	stress	T033	C0038435
+26797704	255	272	military families	T099	C3850016
+26797704	274	282	Research	T062	C0035168
+26797704	297	312	negative impact	T033	C1513916
+26797704	324	334	deployment	T052	C2825812
+26797704	342	352	well being	T078	C0018684
+26797704	356	363	service	T097	C1550414
+26797704	364	371	members	T098	C0680022
+26797704	373	381	military	T097	C3245458
+26797704	382	389	spouses	T099	C0162409
+26797704	395	403	children	T100	C0008059
+26797704	442	450	parental	T099	C0030551
+26797704	451	462	deployments	T052	C2825812
+26797704	474	484	adjustment	T055	C0376209
+26797704	488	502	young children	T100	C0728836
+26797704	513	521	families	T099	C3850016
+26797704	529	539	deployment	T052	C2825812
+26797704	529	547	deployment records	T170	C0034869
+26797704	552	558	parent	T099	C0030551
+26797704	561	569	reported	T170	C0684224
+26797704	592	602	caregiving	T052	C1947933
+26797704	617	625	military	T097	C3245458
+26797704	636	643	parents	T099	C0030551
+26797704	674	684	deployment	T052	C2825812
+26797704	688	698	adjustment	T055	C0376209
+26797704	702	719	military families	T099	C3850016
+26797704	725	733	children	T100	C0008059
+26797704	759	769	deployment	T052	C2825812
+26797704	794	802	impaired	T169	C0221099
+26797704	803	821	family functioning	T054	C0680051
+26797704	826	833	marital	T033	C0024841
+26797704	834	845	instability	T033	C1444783
+26797704	847	855	Parental	T099	C0030551
+26797704	856	866	depressive	T048	C0011570
+26797704	871	900	posttraumatic stress symptoms	T048	C0038436
+26797704	906	921	associated with	T080	C0332281
+26797704	922	933	impairments	T169	C0221099
+26797704	937	943	social	T054	C0035820
+26797704	944	953	emotional	T033	C0849912
+26797704	954	964	adjustment	T055	C0376209
+26797704	968	982	young children	T100	C0728836
+26797704	994	1001	anxiety	T033	C0003467
+26797704	1011	1020	childhood	T079	C0231335
+26797704	1026	1036	adjustment	T055	C0376209
+26797704	1049	1068	school-age children	T100	C2827631
+26797704	1082	1090	parental	T099	C0030551
+26797704	1091	1102	sensitivity	T041	C0312418
+26797704	1107	1122	associated with	T080	C0332281
+26797704	1132	1138	social	T054	C0035820
+26797704	1143	1161	emotional outcomes	T033	C0849912
+26797704	1169	1178	childhood	T079	C0231335
+26797704	1186	1194	findings	T033	C0243095
+26797704	1226	1236	preventive	T080	C1456501
+26797704	1252	1269	military families	T099	C3850016
+26797704	1281	1289	children	T100	C0008059
+
+26864880|t|Combining electrostatic powder with an insecticide: effect on stored - product beetles and on the commodity
+26864880|a|The opportunity to reduce the amount of pirimiphos-methyl applied to grain by formulating it in an electrostatic powder was investigated. The insecticidal efficacy of pirimiphos-methyl in EC formulation or formulated using electrostatic powder (EP) as an inert carrier was investigated against Sitophilus oryzae (L.), Oryzaephilus surinamensis (L.), Rhyzopertha dominica (F.) and Tribolium confusum Jacquelin du Val. Furthermore, the adhesive properties of EP to rice, corn and wheat, together with the effect on bulk density and bread - and pasta - making properties, were investigated. The results showed that pirimiphos-methyl formulated with EP provided better efficacy against adults when compared with EC formulation for O. surinamensis and T. confusum, but there was no difference for R. dominica. Progeny production was consistently lower in grain treated with the EP formulation than in grain treated with the EC. Tests showed that EP adhered to the kernels for longer on hard wheat than on maize or rice. In most commodities, EP did not alter the bulk density. Finally, the addition of EP did not affect flour - and bread - making properties, nor the pasta -making properties. The results of the present study suggest that an EP could be used to reduce the amount of pirimiphos-methyl applied to grain for effective pest control, with no detrimental effects on grain quality. © 2016 Society of Chemical Industry.
+26864880	10	30	electrostatic powder	T167	C0439861
+26864880	39	50	insecticide	T131	C0021576
+26864880	62	68	stored	T169	C1698986
+26864880	71	78	product	T071	C1514468
+26864880	79	86	beetles	T204	C0009276
+26864880	98	107	commodity	T168	C0453860
+26864880	148	165	pirimiphos-methyl	T109,T121	C0071138
+26864880	177	182	grain	T168	C0007757
+26864880	207	227	electrostatic powder	T167	C0439861
+26864880	250	262	insecticidal	T131	C0021576
+26864880	263	271	efficacy	T080	C1280519
+26864880	275	292	pirimiphos-methyl	T109,T121	C0071138
+26864880	296	310	EC formulation	T131	C0021576
+26864880	331	351	electrostatic powder	T167	C0439861
+26864880	353	355	EP	T167	C0439861
+26864880	363	376	inert carrier	T167	C0520810
+26864880	402	419	Sitophilus oryzae	T204	C0998410
+26864880	426	451	Oryzaephilus surinamensis	T204	C0322563
+26864880	458	478	Rhyzopertha dominica	T204	C1041701
+26864880	488	523	Tribolium confusum Jacquelin du Val	T204	C0598191
+26864880	542	550	adhesive	T067	C3714578
+26864880	565	567	EP	T167	C0439861
+26864880	571	575	rice	T168	C0035567
+26864880	577	581	corn	T168	C1138842
+26864880	586	591	wheat	T168	C0043137
+26864880	626	633	density	T081	C0178587
+26864880	638	643	bread	T168	C0006138
+26864880	650	655	pasta	T168	C0452694
+26864880	658	664	making	T052	C1521827
+26864880	665	675	properties	T080	C0871161
+26864880	720	737	pirimiphos-methyl	T109,T121	C0071138
+26864880	754	756	EP	T167	C0439861
+26864880	773	781	efficacy	T080	C1280519
+26864880	790	796	adults	T204	C0563200
+26864880	816	830	EC formulation	T131	C0021576
+26864880	835	850	O. surinamensis	T204	C0322563
+26864880	855	866	T. confusum	T204	C0598191
+26864880	900	911	R. dominica	T204	C1041701
+26864880	913	920	Progeny	T099	C0680063
+26864880	958	963	grain	T168	C0007757
+26864880	964	976	treated with	T061	C0332293
+26864880	981	983	EP	T167	C0439861
+26864880	1004	1009	grain	T168	C0007757
+26864880	1010	1022	treated with	T061	C0332293
+26864880	1027	1029	EC	T131	C0021576
+26864880	1049	1051	EP	T167	C0439861
+26864880	1052	1059	adhered	T067	C3714578
+26864880	1067	1074	kernels	T168	C0016452
+26864880	1094	1099	wheat	T168	C0043137
+26864880	1108	1113	maize	T168	C1138842
+26864880	1117	1121	rice	T168	C0035567
+26864880	1131	1142	commodities	T168	C0453860
+26864880	1144	1146	EP	T167	C0439861
+26864880	1170	1177	density	T081	C0178587
+26864880	1204	1206	EP	T167	C0439861
+26864880	1222	1227	flour	T168	C0016260
+26864880	1234	1239	bread	T168	C0006138
+26864880	1242	1248	making	T052	C1521827
+26864880	1249	1259	properties	T080	C0871161
+26864880	1269	1274	pasta	T168	C0452694
+26864880	1283	1293	properties	T080	C0871161
+26864880	1344	1346	EP	T167	C0439861
+26864880	1385	1402	pirimiphos-methyl	T109,T121	C0071138
+26864880	1414	1419	grain	T168	C0007757
+26864880	1434	1446	pest control	T057	C0031249
+26864880	1453	1475	no detrimental effects	T080	C1301751
+26864880	1479	1484	grain	T168	C0007757
+26864880	1485	1492	quality	T080	C0332306
+
+26867927|t|Radiofrequency ablation of posteroseptal accessory pathways associated with coronary sinus diverticula
+26867927|a|Posteroseptal accessory pathways may be associated with a coronary sinus (CS) diverticulum. Our purpose was to describe the clinical characteristics, mapping and ablation of these pathways. This was a retrospective study of all patients who underwent ablation of posteroseptal accessory pathways in a single centre. Patients with a diverticulum of the CS or one of its tributaries were included in group I, while the other patients formed group II. Clinical presentation, ablation procedure and outcome were compared between the two groups. A total of 51 patients were included, 16 in group I and 35 in group II. There were no significant differences in age or sex distribution. Atrial fibrillation (AF) and previous unsuccessful ablation were more common in group I. A negative delta wave in lead II was the ECG finding with best sensitivity and specificity for the presence of a diverticulum. A pathway potential was common at the successful site in group I, and the interval between local ventricular electrogram and delta wave onset was shorter (19.5 ± 8 vs 33.1 ± 7.6 ms, p < 0.001). There was a trend toward lower procedural success rate and higher recurrence rate in group I, although this was not significant. CS diverticula should be suspected in patients with manifest posteroseptal accessory pathways who have a previous failed ablation, documented AF or typical electrocardiographic signs. A discrete potential is frequently seen at the successful site, but the local ventricular electrogram is not as early as in other accessory pathways.
+26867927	0	23	Radiofrequency ablation	T061	C0850292
+26867927	27	59	posteroseptal accessory pathways	T023	C0447025
+26867927	60	75	associated with	T080	C0332281
+26867927	76	102	coronary sinus diverticula	T019,T047	C3163894
+26867927	103	135	Posteroseptal accessory pathways	T023	C0447025
+26867927	143	158	associated with	T080	C0332281
+26867927	161	193	coronary sinus (CS) diverticulum	T019,T047	C3163894
+26867927	227	251	clinical characteristics	T201	C0683325
+26867927	253	260	mapping	T052	C1283195
+26867927	265	291	ablation of these pathways	T061	C3275043
+26867927	304	323	retrospective study	T062	C0035363
+26867927	331	339	patients	T101	C0030705
+26867927	354	362	ablation	T061	C0547070
+26867927	366	398	posteroseptal accessory pathways	T023	C0447025
+26867927	404	417	single centre	T082	C0205099
+26867927	419	427	Patients	T101	C0030705
+26867927	435	457	diverticulum of the CS	T019,T047	C3163894
+26867927	472	483	tributaries	T023	C1180121
+26867927	501	508	group I	T078	C0441833
+26867927	526	534	patients	T101	C0030705
+26867927	542	550	group II	T078	C0441833
+26867927	552	573	Clinical presentation	T170	C2708283
+26867927	575	593	ablation procedure	T061	C0547070
+26867927	636	642	groups	T078	C0441833
+26867927	658	666	patients	T101	C0030705
+26867927	688	695	group I	T078	C0441833
+26867927	706	714	group II	T078	C0441833
+26867927	757	760	age	T081	C0001782
+26867927	764	780	sex distribution	T081	C0036878
+26867927	782	801	Atrial fibrillation	T047	C0004238
+26867927	803	805	AF	T047	C0004238
+26867927	833	841	ablation	T061	C0547070
+26867927	862	869	group I	T078	C0441833
+26867927	873	881	negative	T033	C0205160
+26867927	882	892	delta wave	T033	C1880434
+26867927	896	903	lead II	T078	C0441833
+26867927	912	915	ECG	T060	C1623258
+26867927	916	923	finding	T033	C0243095
+26867927	934	945	sensitivity	T081	C1511883
+26867927	950	961	specificity	T081	C1511884
+26867927	984	996	diverticulum	T046	C0012817
+26867927	1000	1007	pathway	T023	C0447025
+26867927	1008	1017	potential	T080	C3245505
+26867927	1047	1051	site	T082	C0205145
+26867927	1055	1062	group I	T078	C0441833
+26867927	1089	1118	local ventricular electrogram	T060	C0849666
+26867927	1123	1133	delta wave	T033	C1880434
+26867927	1144	1151	shorter	T081	C1806781
+26867927	1217	1222	lower	T080	C0205251
+26867927	1242	1246	rate	T081	C1521828
+26867927	1251	1257	higher	T080	C0205250
+26867927	1258	1268	recurrence	T067	C0034897
+26867927	1269	1273	rate	T081	C1521828
+26867927	1277	1284	group I	T078	C0441833
+26867927	1308	1319	significant	T078	C0750502
+26867927	1321	1335	CS diverticula	T019,T047	C3163894
+26867927	1359	1367	patients	T101	C0030705
+26867927	1382	1414	posteroseptal accessory pathways	T023	C0447025
+26867927	1442	1450	ablation	T061	C0547070
+26867927	1463	1465	AF	T047	C0004238
+26867927	1477	1503	electrocardiographic signs	T033	C0438154
+26867927	1516	1525	potential	T080	C3245505
+26867927	1577	1606	local ventricular electrogram	T060	C0849666
+26867927	1635	1653	accessory pathways	T023	C0006383
+
+26868132|t|Association of RBP4 levels with increased arterial stiffness in adolescents with family history of type 2 diabetes
+26868132|a|The aim of this study was to explore the impact of family history of type 2 diabetes (FH2D) on arterial stiffness in young people and its relationship to adipocytokines. This case-control study included 52 adolescents (male / female 28/24) with FH2D (FH2D+) and 40 adolescents (male / female 21/19) without FH2D (FH2D-). Anthropometric measurements, including height, weight, waist circumference (WC), and blood pressure, were obtained. Blood samples were collected, fasting plasma glucose (FPG), serum lipids, Retinol Binding Protein 4 (RBP4), C reactive protein (CRP), adiponectin and visfatin were examined. Brachial-ankle pulse wave velocity (baPWV) was used to evaluate arterial stiffness. Visceral fat area (VFA) was measured by computerized tomography. Compared with FH2D- group, FH2D+ group had a significantly higher oral glucose tolerance test (OGTT) 2-hour insulin, RBP4 and baPWV levels, a lower adiponectin and glucose infusing rate (GIR) (P<0.05). BaPWV was positively correlated with age, systolic blood pressure (SBP), diastolic blood pressure (DBP), 2-hour (OGTT) insulin, RBP4, and VFA, and negatively correlated with GIR in FH2D+ group. After multivariate analysis, age, SBP, RBP4 and VFA maintained an independent association with baPWV in FH2D+ group (P<0.05), while only age, SBP, and VFA were independent predictors of baPWV in FH2D- group (P<0.05). These findings led to the conclusion that RBP4 level was associated with increased arterial stiffness in young subjects with family history of type 2 diabetes.
+26868132	15	19	RBP4	T116,T123	C1438309
+26868132	42	60	arterial stiffness	T039	C0599949
+26868132	64	75	adolescents	T100	C0205653
+26868132	81	114	family history of type 2 diabetes	T033	C2316287
+26868132	131	136	study	T062	C2603343
+26868132	166	199	family history of type 2 diabetes	T033	C2316287
+26868132	201	205	FH2D	T033	C2316287
+26868132	210	228	arterial stiffness	T039	C0599949
+26868132	232	237	young	T079	C0332239
+26868132	238	244	people	T098	C0027361
+26868132	269	283	adipocytokines	T116,T123	C1955907
+26868132	290	308	case-control study	T062	C0007328
+26868132	321	332	adolescents	T100	C0205653
+26868132	334	338	male	T032	C0086582
+26868132	341	347	female	T032	C0086287
+26868132	360	364	FH2D	T033	C2316287
+26868132	366	371	FH2D+	T033	C2316287
+26868132	380	391	adolescents	T100	C0205653
+26868132	393	397	male	T032	C0086582
+26868132	400	406	female	T032	C0086287
+26868132	422	426	FH2D	T033	C2316287
+26868132	428	433	FH2D-	T033	C1513916
+26868132	436	463	Anthropometric measurements	T081	C0815129
+26868132	475	481	height	T032	C0005890
+26868132	483	489	weight	T032	C0005910
+26868132	491	510	waist circumference	T201	C0455829
+26868132	512	514	WC	T201	C0455829
+26868132	521	535	blood pressure	T040	C0005823
+26868132	552	565	Blood samples	T031	C0178913
+26868132	582	604	fasting plasma glucose	T059	C0583513
+26868132	606	609	FPG	T059	C0583513
+26868132	612	624	serum lipids	T059	C0428462
+26868132	626	651	Retinol Binding Protein 4	T116,T123	C1438309
+26868132	653	657	RBP4	T116,T123	C1438309
+26868132	660	678	C reactive protein	T059	C0201657
+26868132	680	683	CRP	T059	C0201657
+26868132	686	697	adiponectin	T059	C2700366
+26868132	702	710	visfatin	T116,T126	C0068707
+26868132	726	760	Brachial-ankle pulse wave velocity	T081	C3494431
+26868132	762	767	baPWV	T081	C3494431
+26868132	790	808	arterial stiffness	T039	C0599949
+26868132	810	827	Visceral fat area	T201	C3654464
+26868132	829	832	VFA	T201	C3654464
+26868132	850	873	computerized tomography	T060	C0040405
+26868132	889	894	FH2D-	T033	C1513916
+26868132	895	900	group	T098	C1257890
+26868132	902	907	FH2D+	T033	C2316287
+26868132	908	913	group	T098	C1257890
+26868132	941	990	oral glucose tolerance test (OGTT) 2-hour insulin	T059	C2041409
+26868132	992	996	RBP4	T116,T123	C1438309
+26868132	1001	1006	baPWV	T081	C3494431
+26868132	1023	1034	adiponectin	T059	C2700366
+26868132	1039	1060	glucose infusing rate	T079	C2964135
+26868132	1062	1065	GIR	T079	C2964135
+26868132	1077	1082	BaPWV	T081	C3494431
+26868132	1114	1117	age	T032	C0001779
+26868132	1119	1142	systolic blood pressure	T201	C0871470
+26868132	1144	1147	SBP	T201	C0871470
+26868132	1150	1174	diastolic blood pressure	T201	C0428883
+26868132	1176	1179	DBP	T201	C0428883
+26868132	1182	1203	2-hour (OGTT) insulin	T059	C2041409
+26868132	1205	1209	RBP4	T116,T123	C1438309
+26868132	1215	1218	VFA	T201	C3654464
+26868132	1258	1263	FH2D+	T033	C2316287
+26868132	1264	1269	group	T098	C1257890
+26868132	1277	1298	multivariate analysis	T081	C0026777
+26868132	1300	1303	age	T032	C0001779
+26868132	1305	1308	SBP	T201	C0871470
+26868132	1310	1314	RBP4	T116,T123	C1438309
+26868132	1319	1322	VFA	T201	C3654464
+26868132	1366	1371	baPWV	T081	C3494431
+26868132	1375	1380	FH2D+	T033	C2316287
+26868132	1381	1386	group	T098	C1257890
+26868132	1408	1411	age	T032	C0001779
+26868132	1413	1416	SBP	T201	C0871470
+26868132	1422	1425	VFA	T201	C3654464
+26868132	1443	1453	predictors	T078	C2698872
+26868132	1457	1462	baPWV	T081	C3494431
+26868132	1466	1471	FH2D-	T033	C1513916
+26868132	1472	1477	group	T098	C1257890
+26868132	1494	1502	findings	T033	C0243095
+26868132	1530	1534	RBP4	T116,T123	C1438309
+26868132	1571	1589	arterial stiffness	T039	C0599949
+26868132	1593	1598	young	T079	C0332239
+26868132	1599	1607	subjects	T098	C0080105
+26868132	1613	1646	family history of type 2 diabetes	T033	C2316287
+

@@ -1,0 +1,892 @@
+{
+  "semantic_groups": {
+    "DISO": {
+      "name": "Disorders & Diseases",
+      "description": "Disease classifications, abnormalities, and pathological conditions",
+      "types": {
+        "T020": {
+          "name": "Acquired Abnormality",
+          "mention_count": 580,
+          "cui_count": 93,
+          "percentage": 0.1
+        },
+        "T190": {
+          "name": "Anatomical Abnormality",
+          "mention_count": 1207,
+          "cui_count": 166,
+          "percentage": 0.21
+        },
+        "T049": {
+          "name": "Cell or Molecular Dysfunction",
+          "mention_count": 736,
+          "cui_count": 119,
+          "percentage": 0.13
+        },
+        "T019": {
+          "name": "Congenital Abnormality",
+          "mention_count": 1257,
+          "cui_count": 212,
+          "percentage": 0.22
+        },
+        "T047": {
+          "name": "Disease or Syndrome",
+          "mention_count": 46583,
+          "cui_count": 3743,
+          "percentage": 8.14
+        },
+        "T050": {
+          "name": "Experimental Model of Disease",
+          "mention_count": 311,
+          "cui_count": 23,
+          "percentage": 0.05
+        },
+        "T033": {
+          "name": "Finding",
+          "mention_count": 38889,
+          "cui_count": 4491,
+          "percentage": 6.79
+        },
+        "T037": {
+          "name": "Injury or Poisoning",
+          "mention_count": 4515,
+          "cui_count": 549,
+          "percentage": 0.79
+        },
+        "T048": {
+          "name": "Mental or Behavioral Dysfunction",
+          "mention_count": 6473,
+          "cui_count": 471,
+          "percentage": 1.13
+        },
+        "T191": {
+          "name": "Neoplastic Process",
+          "mention_count": 8437,
+          "cui_count": 865,
+          "percentage": 1.47
+        },
+        "T046": {
+          "name": "Pathologic Function",
+          "mention_count": 12057,
+          "cui_count": 878,
+          "percentage": 2.11
+        },
+        "T184": {
+          "name": "Sign or Symptom",
+          "mention_count": 21747,
+          "cui_count": 835,
+          "percentage": 3.8
+        }
+      },
+      "total_mention_count": 142792,
+      "total_cui_count": 12430,
+      "total_percentage": 24.95,
+      "calculation_note": "Totals calculated by summing 12 inner TUI values"
+    },
+    "CHEM": {
+      "name": "Drugs & Chemicals",
+      "description": "Chemical and pharmacological entities",
+      "types": {
+        "T116": {
+          "name": "Amino Acid, Peptide, or Protein",
+          "mention_count": 17601,
+          "cui_count": 2695,
+          "percentage": 3.08
+        },
+        "T195": {
+          "name": "Antibiotic",
+          "mention_count": 2038,
+          "cui_count": 143,
+          "percentage": 0.36
+        },
+        "T123": {
+          "name": "Biologically Active Substance",
+          "mention_count": 13085,
+          "cui_count": 1434,
+          "percentage": 2.29
+        },
+        "T122": {
+          "name": "Biomedical or Dental Material",
+          "mention_count": 1897,
+          "cui_count": 212,
+          "percentage": 0.33
+        },
+        "T103": {
+          "name": "Chemical",
+          "mention_count": 251,
+          "cui_count": 7,
+          "percentage": 0.04
+        },
+        "T120": {
+          "name": "Chemical Viewed Functionally",
+          "mention_count": 338,
+          "cui_count": 41,
+          "percentage": 0.06
+        },
+        "T104": {
+          "name": "Chemical Viewed Structurally",
+          "mention_count": 776,
+          "cui_count": 46,
+          "percentage": 0.14
+        },
+        "T200": {
+          "name": "Clinical Drug",
+          "mention_count": 408,
+          "cui_count": 138,
+          "percentage": 0.07
+        },
+        "T196": {
+          "name": "Element, Ion, or Isotope",
+          "mention_count": 2414,
+          "cui_count": 141,
+          "percentage": 0.42
+        },
+        "T126": {
+          "name": "Enzyme",
+          "mention_count": 3948,
+          "cui_count": 677,
+          "percentage": 0.69
+        },
+        "T131": {
+          "name": "Hazardous or Poisonous Substance",
+          "mention_count": 2897,
+          "cui_count": 277,
+          "percentage": 0.51
+        },
+        "T125": {
+          "name": "Hormone",
+          "mention_count": 2167,
+          "cui_count": 171,
+          "percentage": 0.38
+        },
+        "T129": {
+          "name": "Immunologic Factor",
+          "mention_count": 3687,
+          "cui_count": 494,
+          "percentage": 0.64
+        },
+        "T130": {
+          "name": "Indicator, Reagent, or Diagnostic Aid",
+          "mention_count": 1657,
+          "cui_count": 267,
+          "percentage": 0.29
+        },
+        "T197": {
+          "name": "Inorganic Chemical",
+          "mention_count": 1949,
+          "cui_count": 204,
+          "percentage": 0.34
+        },
+        "T114": {
+          "name": "Nucleic Acid, Nucleoside, or Nucleotide",
+          "mention_count": 3332,
+          "cui_count": 293,
+          "percentage": 0.58
+        },
+        "T109": {
+          "name": "Organic Chemical",
+          "mention_count": 28250,
+          "cui_count": 2886,
+          "percentage": 4.94
+        },
+        "T121": {
+          "name": "Pharmacologic Substance",
+          "mention_count": 32279,
+          "cui_count": 2758,
+          "percentage": 5.64
+        },
+        "T192": {
+          "name": "Receptor",
+          "mention_count": 1501,
+          "cui_count": 294,
+          "percentage": 0.26
+        },
+        "T127": {
+          "name": "Vitamin",
+          "mention_count": 739,
+          "cui_count": 70,
+          "percentage": 0.13
+        }
+      },
+      "total_mention_count": 121214,
+      "total_cui_count": 7276,
+      "total_percentage": 21.18,
+      "calculation_note": "Totals calculated by summing 20 inner TUI values"
+    },
+    "ANAT": {
+      "name": "Anatomical Structures",
+      "description": "Body structures and components",
+      "types": {
+        "T017": {
+          "name": "Anatomical Structure",
+          "mention_count": 162,
+          "cui_count": 20,
+          "percentage": 0.03
+        },
+        "T029": {
+          "name": "Body Location or Region",
+          "mention_count": 2275,
+          "cui_count": 404,
+          "percentage": 0.4
+        },
+        "T023": {
+          "name": "Body Part, Organ, or Organ Component",
+          "mention_count": 11020,
+          "cui_count": 1583,
+          "percentage": 1.93
+        },
+        "T030": {
+          "name": "Body Space or Junction",
+          "mention_count": 915,
+          "cui_count": 186,
+          "percentage": 0.16
+        },
+        "T031": {
+          "name": "Body Substance",
+          "mention_count": 1775,
+          "cui_count": 129,
+          "percentage": 0.31
+        },
+        "T022": {
+          "name": "Body System",
+          "mention_count": 727,
+          "cui_count": 72,
+          "percentage": 0.13
+        },
+        "T025": {
+          "name": "Cell",
+          "mention_count": 5654,
+          "cui_count": 341,
+          "percentage": 0.99
+        },
+        "T026": {
+          "name": "Cell Component",
+          "mention_count": 1625,
+          "cui_count": 322,
+          "percentage": 0.28
+        },
+        "T018": {
+          "name": "Embryonic Structure",
+          "mention_count": 297,
+          "cui_count": 43,
+          "percentage": 0.05
+        },
+        "T021": {
+          "name": "Fully Formed Anatomical Structure",
+          "mention_count": 2,
+          "cui_count": 1,
+          "percentage": 0.0
+        },
+        "T024": {
+          "name": "Tissue",
+          "mention_count": 1754,
+          "cui_count": 193,
+          "percentage": 0.31
+        }
+      },
+      "total_mention_count": 26206,
+      "total_cui_count": 3294,
+      "total_percentage": 4.58,
+      "calculation_note": "Totals calculated by summing 11 inner TUI values"
+    },
+    "PHYS": {
+      "name": "Physiology",
+      "description": "Physiological functions and attributes",
+      "types": {
+        "T043": {
+          "name": "Cell Function",
+          "mention_count": 3171,
+          "cui_count": 488,
+          "percentage": 0.55
+        },
+        "T201": {
+          "name": "Clinical Attribute",
+          "mention_count": 2169,
+          "cui_count": 295,
+          "percentage": 0.38
+        },
+        "T045": {
+          "name": "Genetic Function",
+          "mention_count": 3385,
+          "cui_count": 198,
+          "percentage": 0.59
+        },
+        "T041": {
+          "name": "Mental Process",
+          "mention_count": 3923,
+          "cui_count": 367,
+          "percentage": 0.69
+        },
+        "T044": {
+          "name": "Molecular Function",
+          "mention_count": 3419,
+          "cui_count": 584,
+          "percentage": 0.6
+        },
+        "T032": {
+          "name": "Organism Attribute",
+          "mention_count": 3900,
+          "cui_count": 145,
+          "percentage": 0.68
+        },
+        "T040": {
+          "name": "Organism Function",
+          "mention_count": 2994,
+          "cui_count": 333,
+          "percentage": 0.52
+        },
+        "T042": {
+          "name": "Organ or Tissue Function",
+          "mention_count": 1947,
+          "cui_count": 352,
+          "percentage": 0.34
+        },
+        "T039": {
+          "name": "Physiologic Function",
+          "mention_count": 1514,
+          "cui_count": 192,
+          "percentage": 0.26
+        }
+      },
+      "total_mention_count": 26422,
+      "total_cui_count": 2954,
+      "total_percentage": 4.62,
+      "calculation_note": "Totals calculated by summing 9 inner TUI values"
+    },
+    "PHEN": {
+      "name": "Phenomena",
+      "description": "Natural and human-caused phenomena and processes",
+      "types": {
+        "T038": {
+          "name": "Biologic Function",
+          "mention_count": 994,
+          "cui_count": 86,
+          "percentage": 0.17
+        },
+        "T069": {
+          "name": "Environmental Effect of Humans",
+          "mention_count": 190,
+          "cui_count": 26,
+          "percentage": 0.03
+        },
+        "T068": {
+          "name": "Human-caused Phenomenon or Process",
+          "mention_count": 292,
+          "cui_count": 45,
+          "percentage": 0.05
+        },
+        "T034": {
+          "name": "Laboratory or Test Result",
+          "mention_count": 1145,
+          "cui_count": 262,
+          "percentage": 0.2
+        },
+        "T070": {
+          "name": "Natural Phenomenon or Process",
+          "mention_count": 3267,
+          "cui_count": 323,
+          "percentage": 0.57
+        },
+        "T067": {
+          "name": "Phenomenon or Process",
+          "mention_count": 1997,
+          "cui_count": 141,
+          "percentage": 0.35
+        }
+      },
+      "total_mention_count": 7885,
+      "total_cui_count": 883,
+      "total_percentage": 1.38,
+      "calculation_note": "Totals calculated by summing 6 inner TUI values"
+    },
+    "GENE": {
+      "name": "Genes & Molecular Sequences",
+      "description": "Genetic material and molecular sequences",
+      "types": {
+        "T087": {
+          "name": "Amino Acid Sequence",
+          "mention_count": 365,
+          "cui_count": 39,
+          "percentage": 0.06
+        },
+        "T088": {
+          "name": "Carbohydrate Sequence",
+          "mention_count": 0,
+          "cui_count": 0,
+          "percentage": 0.0
+        },
+        "T028": {
+          "name": "Gene or Genome",
+          "mention_count": 4665,
+          "cui_count": 848,
+          "percentage": 0.82
+        },
+        "T085": {
+          "name": "Molecular Sequence",
+          "mention_count": 61,
+          "cui_count": 7,
+          "percentage": 0.01
+        },
+        "T086": {
+          "name": "Nucleotide Sequence",
+          "mention_count": 668,
+          "cui_count": 44,
+          "percentage": 0.12
+        }
+      },
+      "total_mention_count": 5759,
+      "total_cui_count": 938,
+      "total_percentage": 1.01,
+      "calculation_note": "Totals calculated by summing 5 inner TUI values"
+    },
+    "PROC": {
+      "name": "Procedures",
+      "description": "Medical, diagnostic, and therapeutic procedures",
+      "types": {
+        "T060": {
+          "name": "Diagnostic Procedure",
+          "mention_count": 8381,
+          "cui_count": 798,
+          "percentage": 1.46
+        },
+        "T065": {
+          "name": "Educational Activity",
+          "mention_count": 786,
+          "cui_count": 93,
+          "percentage": 0.14
+        },
+        "T058": {
+          "name": "Health Care Activity",
+          "mention_count": 8105,
+          "cui_count": 817,
+          "percentage": 1.42
+        },
+        "T059": {
+          "name": "Laboratory Procedure",
+          "mention_count": 13900,
+          "cui_count": 1088,
+          "percentage": 2.43
+        },
+        "T063": {
+          "name": "Molecular Biology Research Technique",
+          "mention_count": 1020,
+          "cui_count": 123,
+          "percentage": 0.18
+        },
+        "T062": {
+          "name": "Research Activity",
+          "mention_count": 9004,
+          "cui_count": 440,
+          "percentage": 1.57
+        },
+        "T061": {
+          "name": "Therapeutic or Preventive Procedure",
+          "mention_count": 17371,
+          "cui_count": 2291,
+          "percentage": 3.03
+        }
+      },
+      "total_mention_count": 58567,
+      "total_cui_count": 5650,
+      "total_percentage": 10.23,
+      "calculation_note": "Totals calculated by summing 7 inner TUI values"
+    },
+    "ACTI": {
+      "name": "Activities & Behaviors",
+      "description": "Human activities and behavioral patterns",
+      "types": {
+        "T052": {
+          "name": "Activity",
+          "mention_count": 7379,
+          "cui_count": 155,
+          "percentage": 1.29
+        },
+        "T053": {
+          "name": "Behavior",
+          "mention_count": 411,
+          "cui_count": 19,
+          "percentage": 0.07
+        },
+        "T056": {
+          "name": "Daily or Recreational Activity",
+          "mention_count": 926,
+          "cui_count": 67,
+          "percentage": 0.16
+        },
+        "T051": {
+          "name": "Event",
+          "mention_count": 307,
+          "cui_count": 18,
+          "percentage": 0.05
+        },
+        "T064": {
+          "name": "Governmental or Regulatory Activity",
+          "mention_count": 210,
+          "cui_count": 67,
+          "percentage": 0.04
+        },
+        "T055": {
+          "name": "Individual Behavior",
+          "mention_count": 1206,
+          "cui_count": 181,
+          "percentage": 0.21
+        },
+        "T066": {
+          "name": "Machine Activity",
+          "mention_count": 265,
+          "cui_count": 35,
+          "percentage": 0.05
+        },
+        "T057": {
+          "name": "Occupational Activity",
+          "mention_count": 956,
+          "cui_count": 142,
+          "percentage": 0.17
+        },
+        "T054": {
+          "name": "Social Behavior",
+          "mention_count": 1265,
+          "cui_count": 196,
+          "percentage": 0.22
+        }
+      },
+      "total_mention_count": 12925,
+      "total_cui_count": 880,
+      "total_percentage": 2.26,
+      "calculation_note": "Totals calculated by summing 9 inner TUI values"
+    },
+    "LIVB": {
+      "name": "Living Organisms",
+      "description": "Organisms, population groups, and subtypes",
+      "types": {
+        "T100": {
+          "name": "Age Group",
+          "mention_count": 2179,
+          "cui_count": 40,
+          "percentage": 0.38
+        },
+        "T011": {
+          "name": "Amphibian",
+          "mention_count": 45,
+          "cui_count": 10,
+          "percentage": 0.01
+        },
+        "T008": {
+          "name": "Animal",
+          "mention_count": 454,
+          "cui_count": 25,
+          "percentage": 0.08
+        },
+        "T194": {
+          "name": "Archaeon",
+          "mention_count": 24,
+          "cui_count": 12,
+          "percentage": 0.0
+        },
+        "T007": {
+          "name": "Bacterium",
+          "mention_count": 2108,
+          "cui_count": 369,
+          "percentage": 0.37
+        },
+        "T012": {
+          "name": "Bird",
+          "mention_count": 468,
+          "cui_count": 92,
+          "percentage": 0.08
+        },
+        "T204": {
+          "name": "Eukaryote",
+          "mention_count": 1894,
+          "cui_count": 441,
+          "percentage": 0.33
+        },
+        "T099": {
+          "name": "Family Group",
+          "mention_count": 829,
+          "cui_count": 58,
+          "percentage": 0.14
+        },
+        "T013": {
+          "name": "Fish",
+          "mention_count": 293,
+          "cui_count": 48,
+          "percentage": 0.05
+        },
+        "T004": {
+          "name": "Fungus",
+          "mention_count": 611,
+          "cui_count": 140,
+          "percentage": 0.11
+        },
+        "T096": {
+          "name": "Group",
+          "mention_count": 1301,
+          "cui_count": 19,
+          "percentage": 0.23
+        },
+        "T016": {
+          "name": "Human",
+          "mention_count": 740,
+          "cui_count": 4,
+          "percentage": 0.13
+        },
+        "T015": {
+          "name": "Mammal",
+          "mention_count": 2392,
+          "cui_count": 164,
+          "percentage": 0.42
+        },
+        "T001": {
+          "name": "Organism",
+          "mention_count": 981,
+          "cui_count": 40,
+          "percentage": 0.17
+        },
+        "T101": {
+          "name": "Patient or Disabled Group",
+          "mention_count": 6376,
+          "cui_count": 44,
+          "percentage": 1.11
+        },
+        "T002": {
+          "name": "Plant",
+          "mention_count": 2039,
+          "cui_count": 355,
+          "percentage": 0.36
+        },
+        "T098": {
+          "name": "Population Group",
+          "mention_count": 6463,
+          "cui_count": 268,
+          "percentage": 1.13
+        },
+        "T097": {
+          "name": "Professional or Occupational Group",
+          "mention_count": 1901,
+          "cui_count": 276,
+          "percentage": 0.33
+        },
+        "T014": {
+          "name": "Reptile",
+          "mention_count": 58,
+          "cui_count": 13,
+          "percentage": 0.01
+        },
+        "T010": {
+          "name": "Vertebrate",
+          "mention_count": 21,
+          "cui_count": 2,
+          "percentage": 0.0
+        },
+        "T005": {
+          "name": "Virus",
+          "mention_count": 1166,
+          "cui_count": 139,
+          "percentage": 0.2
+        }
+      },
+      "total_mention_count": 32343,
+      "total_cui_count": 2558,
+      "total_percentage": 5.65,
+      "calculation_note": "Totals calculated by summing 21 inner TUI values"
+    },
+    "CONC": {
+      "name": "Concepts",
+      "description": "Abstract conceptual entities",
+      "types": {
+        "T185": {
+          "name": "Classification",
+          "mention_count": 1365,
+          "cui_count": 88,
+          "percentage": 0.24
+        },
+        "T077": {
+          "name": "Conceptual Entity",
+          "mention_count": 2626,
+          "cui_count": 155,
+          "percentage": 0.46
+        },
+        "T169": {
+          "name": "Functional Concept",
+          "mention_count": 24454,
+          "cui_count": 760,
+          "percentage": 4.27
+        },
+        "T102": {
+          "name": "Group Attribute",
+          "mention_count": 152,
+          "cui_count": 27,
+          "percentage": 0.03
+        },
+        "T078": {
+          "name": "Idea or Concept",
+          "mention_count": 9364,
+          "cui_count": 412,
+          "percentage": 1.64
+        },
+        "T170": {
+          "name": "Intellectual Product",
+          "mention_count": 10346,
+          "cui_count": 1088,
+          "percentage": 1.81
+        },
+        "T171": {
+          "name": "Language",
+          "mention_count": 150,
+          "cui_count": 24,
+          "percentage": 0.03
+        },
+        "T080": {
+          "name": "Qualitative Concept",
+          "mention_count": 31701,
+          "cui_count": 1096,
+          "percentage": 5.54
+        },
+        "T081": {
+          "name": "Quantitative Concept",
+          "mention_count": 19955,
+          "cui_count": 952,
+          "percentage": 3.49
+        },
+        "T089": {
+          "name": "Regulation or Law",
+          "mention_count": 113,
+          "cui_count": 35,
+          "percentage": 0.02
+        },
+        "T082": {
+          "name": "Spatial Concept",
+          "mention_count": 7866,
+          "cui_count": 557,
+          "percentage": 1.37
+        },
+        "T079": {
+          "name": "Temporal Concept",
+          "mention_count": 10645,
+          "cui_count": 445,
+          "percentage": 1.86
+        }
+      },
+      "total_mention_count": 118737,
+      "total_cui_count": 5639,
+      "total_percentage": 20.74,
+      "calculation_note": "Totals calculated by summing 12 inner TUI values"
+    },
+    "MISC": {
+      "name": "Objects, Occupations, Geography, Organizations, Devices etc.",
+      "description": "Physical objects and substances",
+      "types": {
+        "T071": {
+          "name": "Entity",
+          "mention_count": 109,
+          "cui_count": 6,
+          "percentage": 0.02
+        },
+        "T168": {
+          "name": "Food",
+          "mention_count": 1699,
+          "cui_count": 212,
+          "percentage": 0.3
+        },
+        "T073": {
+          "name": "Manufactured Object",
+          "mention_count": 4111,
+          "cui_count": 482,
+          "percentage": 0.72
+        },
+        "T072": {
+          "name": "Physical Object",
+          "mention_count": 79,
+          "cui_count": 6,
+          "percentage": 0.01
+        },
+        "T167": {
+          "name": "Substance",
+          "mention_count": 1839,
+          "cui_count": 110,
+          "percentage": 0.32
+        },
+        "T091": {
+          "name": "Biomedical Occupation or Discipline",
+          "mention_count": 954,
+          "cui_count": 205,
+          "percentage": 0.17
+        },
+        "T090": {
+          "name": "Occupation or Discipline",
+          "mention_count": 587,
+          "cui_count": 112,
+          "percentage": 0.1
+        },
+        "T093": {
+          "name": "Health Care Related Organization",
+          "mention_count": 1804,
+          "cui_count": 215,
+          "percentage": 0.32
+        },
+        "T092": {
+          "name": "Organization",
+          "mention_count": 501,
+          "cui_count": 70,
+          "percentage": 0.09
+        },
+        "T094": {
+          "name": "Professional Society",
+          "mention_count": 63,
+          "cui_count": 14,
+          "percentage": 0.01
+        },
+        "T095": {
+          "name": "Self-help or Relief Organization",
+          "mention_count": 20,
+          "cui_count": 6,
+          "percentage": 0.0
+        },
+        "T083": {
+          "name": "Geographic Area",
+          "mention_count": 4271,
+          "cui_count": 331,
+          "percentage": 0.75
+        },
+        "T203": {
+          "name": "Drug Delivery Device",
+          "mention_count": 8,
+          "cui_count": 3,
+          "percentage": 0.0
+        },
+        "T074": {
+          "name": "Medical Device",
+          "mention_count": 3136,
+          "cui_count": 576,
+          "percentage": 0.55
+        },
+        "T075": {
+          "name": "Research Device",
+          "mention_count": 334,
+          "cui_count": 16,
+          "percentage": 0.06
+        }
+      },
+      "total_mention_count": 19515,
+      "total_cui_count": 816,
+      "total_percentage": 1.37,
+      "calculation_note": "Totals calculated by summing 5 inner TUI values"
+    }
+  },
+  "overall_statistics": {
+    "total_mentions_across_datasets": 572365,
+    "total_unique_cuis": 44711,
+    "total_semantic_types": 126,
+    "datasets_analyzed": [
+      "shareclef",
+      "mimic-iv-el",
+      "mantra-gsc",
+      "adr",
+      "cometa",
+      "cadec",
+      "medmentions",
+      "ncbi",
+      "cdr"
+    ]
+  }
+}

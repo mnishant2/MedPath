@@ -1,0 +1,112 @@
+
+10192393|t|A common human skin tumour is caused by activating mutations in beta-catenin.
+10192393|a|WNT signalling orchestrates a number of developmental programs. In response to this stimulus, cytoplasmic beta-catenin (encoded by CTNNB1) is stabilized, enabling downstream transcriptional activation by members of the LEF/TCF family. One of the target genes for beta-catenin/TCF encodes c-MYC, explaining why constitutive activation of the WNT pathway can lead to cancer, particularly in the colon. Most colon cancers arise from mutations in the gene encoding adenomatous polyposis coli (APC), a protein required for ubiquitin-mediated degradation of beta-catenin, but a small percentage of colon and some other cancers harbour beta-catenin-stabilizing mutations. Recently, we discovered that transgenic mice expressing an activated beta-catenin are predisposed to developing skin tumours resembling pilomatricomas. Given that the skin of these adult mice also exhibits signs of de novo hair-follicle morphogenesis, we wondered whether human pilomatricomas might originate from hair matrix cells and whether they might possess beta-catenin-stabilizing mutations. Here, we explore the cell origin and aetiology of this common human skin tumour. We found nuclear LEF-1 in the dividing tumour cells, providing biochemical evidence that pilomatricomas are derived from hair matrix cells. At least 75% of these tumours possess mutations affecting the amino-terminal segment, normally involved in phosphorylation-dependent, ubiquitin-mediated degradation of the protein. This percentage of CTNNB1 mutations is greater than in all other human tumours examined thus far, and directly implicates beta-catenin/LEF misregulation as the major cause of hair matrix cell tumorigenesis in humans.. 
+10192393	15	26	skin tumour	DiseaseClass	D012878
+10192393	443	449	cancer	DiseaseClass	D009369
+10192393	483	496	colon cancers	DiseaseClass	D003110
+10192393	539	565	adenomatous polyposis coli	SpecificDisease	D011125
+10192393	567	570	APC	SpecificDisease	D011125
+10192393	670	698	colon and some other cancers	CompositeMention	D003110|D009369
+10192393	855	867	skin tumours	DiseaseClass	D012878
+10192393	879	893	pilomatricomas	SpecificDisease	D018296
+10192393	1021	1035	pilomatricomas	SpecificDisease	D018296
+10192393	1210	1221	skin tumour	DiseaseClass	D012878
+10192393	1262	1268	tumour	Modifier	D009369
+10192393	1312	1326	pilomatricomas	SpecificDisease	D018296
+10192393	1385	1392	tumours	DiseaseClass	D009369
+10192393	1615	1622	tumours	DiseaseClass	D009369
+
+10194428|t|HFE mutations analysis in 711 hemochromatosis probands: evidence for S65C implication in mild form of hemochromatosis.
+10194428|a|Hereditary hemochromatosis (HH) is a common autosomal recessive genetic disorder of iron metabolism. The HFE candidate gene encoding an HLA class I-like protein involved in HH was identified in 1996. Two missense mutations have been described  C282Y, accounting for 80% to 90% of HH chromosomes, and H63D, which is associated with a milder form of the disease representing 40% to 70% of non-C282Y HH chromosomes. We report here on the analysis of C282Y, H63D, and the 193A-- > T substitution leading to the S65C missense substitution in a large series of probands and controls. The results confirm that the C282Y substitution was the main mutation involved in hemochromatosis, accounting for 85% of carrier chromosomes, whereas the H63D substitution represented 39% of the HH chromosomes that did not carry the C282Y mutation. In addition, our screening showed that the S65C substitution was significantly enriched in probands with at least one chromosome without an assigned mutation. This substitution accounted for 7. 8% of HH chromosomes that were neither C282Y nor H63D. This enrichment of S65C among HH chromosomes suggests that the S65C substitution is associated with the mild form of hemochromatosis. 
+10194428	30	45	hemochromatosis	Modifier	D016399
+10194428	102	117	hemochromatosis	SpecificDisease	D006432
+10194428	119	145	Hereditary hemochromatosis	SpecificDisease	D006432
+10194428	147	149	HH	SpecificDisease	D006432
+10194428	163	199	autosomal recessive genetic disorder	DiseaseClass	D030342
+10194428	292	294	HH	SpecificDisease	D006432
+10194428	399	401	HH	Modifier	D006432
+10194428	516	518	HH	Modifier	D006432
+10194428	779	794	hemochromatosis	SpecificDisease	D006432
+10194428	892	894	HH	Modifier	D006432
+10194428	1146	1148	HH	Modifier	D006432
+10194428	1225	1227	HH	Modifier	D006432
+10194428	1312	1327	hemochromatosis	SpecificDisease	D006432
+
+10196379|t|Germline BRCA1 alterations in a population-based series of ovarian cancer cases.
+10196379|a|The objective of this study was to provide more accurate frequency estimates of breast cancer susceptibility gene 1 (BRCA1) germline alterations in the ovarian cancer population. To achieve this, we determined the prevalence of BRCA1 alterations in a population-based series of consecutive ovarian cancer cases. This is the first population-based ovarian cancer study reporting BRCA1 alterations derived from a comprehensive screen of the entire coding region. One hundred and seven ovarian cancer cases were analyzed for BRCA1 alterations using the RNase mismatch cleavage assay followed by direct sequencing. Two truncating mutations, 962del4 and 3600del11, were identified. Both patients had a family history of breast or ovarian cancer. Several novel as well as previously reported uncharacterized variants were also identified, some of which were associated with a family history of cancer. The frequency distribution of common polymorphisms was determined in the 91 Caucasian cancer cases in this series and 24 sister controls using allele-specific amplification. The rare form of the Q356R polymorphism was significantly (P = 0. 03) associated with a family history of ovarian cancer, suggesting that this polymorphism may influence ovarian cancer risk. In summary, our data suggest a role for some uncharacterized variants and rare forms of polymorphisms in determining ovarian cancer risk, and highlight the necessity to screen for missense alterations as well as truncating mutations in this population. 
+10196379	59	73	ovarian cancer	Modifier	D010051
+10196379	161	174	breast cancer	Modifier	D001943
+10196379	233	247	ovarian cancer	Modifier	D010051
+10196379	371	385	ovarian cancer	Modifier	D010051
+10196379	428	442	ovarian cancer	Modifier	D010051
+10196379	564	578	ovarian cancer	Modifier	D010051
+10196379	796	820	breast or ovarian cancer	CompositeMention	D001943|D010051
+10196379	969	975	cancer	DiseaseClass	D009369
+10196379	1063	1069	cancer	Modifier	D009369
+10196379	1257	1271	ovarian cancer	SpecificDisease	D010051
+10196379	1321	1335	ovarian cancer	Modifier	D010051
+10196379	1459	1473	ovarian cancer	Modifier	D010051
+
+10021369|t|Identification of APC2, a homologue of the adenomatous polyposis coli tumour suppressor.
+10021369|a|The adenomatous polyposis coli (APC) tumour-suppressor protein controls the Wnt signalling pathway by forming a complex with glycogen synthase kinase 3beta (GSK-3beta), axin/conductin and betacatenin. Complex formation induces the rapid degradation of betacatenin. In colon carcinoma cells, loss of APC leads to the accumulation of betacatenin in the nucleus, where it binds to and activates the Tcf-4 transcription factor (reviewed in [1] [2]). Here, we report the identification and genomic structure of APC homologues. Mammalian APC2, which closely resembles APC in overall domain structure, was functionally analyzed and shown to contain two SAMP domains, both of which are required for binding to conductin. Like APC, APC2 regulates the formation of active betacatenin-Tcf complexes, as demonstrated using transient transcriptional activation assays in APC -/- colon carcinoma cells. Human APC2 maps to chromosome 19p13. 3. APC and APC2 may therefore have comparable functions in development and cancer.
+10021369	43	76	adenomatous polyposis coli tumour	Modifier	D011125
+10021369	93	132	adenomatous polyposis coli (APC) tumour	Modifier	D011125
+10021369	357	372	colon carcinoma	Modifier	D003110
+10021369	955	970	colon carcinoma	Modifier	D003110
+10021369	1090	1096	cancer	SpecificDisease	D009369
+
+100562|t|Familial deficiency of the seventh component of complement associated with recurrent bacteremic infections due to Neisseria.
+100562|a|The serum of a 29-year old woman with a recent episode of disseminated gonococcal infection and a history of meningococcal meningitis and arthritis as a child was found to lack serum hemolytic complement activity. The seventh component of complement (C7) was not detected by functional or immunochemical assays, whereas other components were normal by hemolytic and immunochemical assessment. Her fresh serum lacked complement-mediated bactericidal activity against Neisseria gonorrhoeae, but the addition of fresh normal serum or purified C7 restored bactericidal activity as well as hemolytic activity. The absence of functional C7 activity could not be accounted for on the basis of an inhibitor. Opsonization and generation of chemotactic activity functioned normally. Complete absence of C7 was also found in one sibling who had the clinical syndrome of meningococcal meningitis and arthritis  as a child and in this siblings clinically well eight-year-old son. HLA histocompatibility typing of the family members did not demonstrate evidence for genetic linkage of C7 deficiency with the major histocompatibility loci. This report represents the first cases of C7 deficiency associated with infectious complications and suggests that bactericidal activity may be important in host defense against bacteremic neisseria infections.
+100562	0	58	Familial deficiency of the seventh component of complement	SpecificDisease	OMIM:610102
+100562	85	123	bacteremic infections due to Neisseria	DiseaseClass	D016870
+100562	183	216	disseminated gonococcal infection	SpecificDisease	D004673
+100562	234	258	meningococcal meningitis	SpecificDisease	D008585
+100562	263	272	arthritis	DiseaseClass	D001168
+100562	734	758	absence of functional C7	Modifier	OMIM:610102
+100562	898	920	Complete absence of C7	SpecificDisease	OMIM:610102
+100562	984	1008	meningococcal meningitis	SpecificDisease	D008585
+100562	1013	1022	arthritis	DiseaseClass	D001168
+100562	1196	1209	C7 deficiency	SpecificDisease	OMIM:610102
+100562	1292	1305	C7 deficiency	SpecificDisease	OMIM:610102
+100562	1428	1459	bacteremic neisseria infections	SpecificDisease	D016870
+
+10078749|t|GCH1 mutation in a patient with adult-onset oromandibular dystonia.
+10078749|a|The authors report a mutation in exon 5 of GCH1 in a patient with adult-onset oromandibular dystonia and no obvious family history of dystonia. The patient responded positively to treatment with L-dopa. These findings demonstrate that GCH1 mutations must be considered even in patients with dystonic symptoms not typical of dopa-responsive dystonia.
+10078749	44	66	oromandibular dystonia	SpecificDisease	D008538
+10078749	146	168	oromandibular dystonia	SpecificDisease	D008538
+10078749	202	210	dystonia	DiseaseClass	D004421
+10078749	359	367	dystonic	Modifier	D004421
+10078749	392	416	dopa-responsive dystonia	SpecificDisease	C538007
+
+10085150|t|The hereditary hemochromatosis protein, HFE, specifically regulates transferrin-mediated iron uptake in HeLa cells.
+10085150|a|HFE is the protein product of the gene mutated in the autosomal recessive disease hereditary hemochromatosis (Feder, J. N., Gnirke, A., Thomas, W., Tsuchihashi, Z., Ruddy, D. A., Basava, A., Dormishian, F., Domingo, R. J., Ellis, M. C., Fullan, A., Hinton, L. M., Jones, N. L., Kimmel, B. E., Kronmal, G. S., Lauer, P., Lee, V. K., Loeb, D. B., Mapa, F. A., McClelland, E., Meyer, N. C., Mintier, G. A., Moeller, N., Moore, T., Morikang, E., Prasss, C. E ., Quintana, L., Starnes, S. M ., Schatzman, R. C ., Brunke, K. J ., Drayna, D. T., Risch, N. J ., Bacon, B. R ., and Wolff, R. R . (1996) Nat. Genet. 13, 399-408). At the cell surface, HFE complexes with transferrin receptor (TfR), increasing the dissociation constant of transferrin (Tf) for its receptor 10-fold (Gross, C. N ., Irrinki, A., Feder, J. N ., and Enns, C. A . (1998) J. Biol. Chem. 273, 22068-22074; Feder, J. N., Penny, D. M., Irrinki, A., Lee, V. K., Lebron, J. A., Watson, N., Tsuchihashi, Z., Sigal, E., Bjorkman, P. J., and Schatzman, R. C. (1998) Proc. Natl . Acad. Sci. U S A 95, 1472-1477). HFE does not remain at the cell surface, but traffics with TfR to Tf-positive internal compartments (Gross et al., 1998). Using a HeLa cell line in which the expression of HFE is controlled by tetracycline, we show that the expression of HFE reduces 55Fe uptake from Tf by 33% but does not affect the endocytic or exocytic rates of TfR cycling. Therefore, HFE appears to reduce cellular acquisition of iron from Tf within endocytic compartments. HFE specifically reduces iron uptake from Tf, as non-Tf-mediated iron uptake from Fe-nitrilotriacetic acid is not altered. These results explain the decreased ferritin levels seen in our HeLa cell system and demonstrate the specific control of HFE over the Tf-mediated pathway of iron uptake. These results also have implications for the understanding of cellular iron homeostasis in organs such as the liver, pancreas, heart, and spleen that are iron loaded in hereditary hemochromatotic individuals lacking functional HFE.
+10085150	4	30	hereditary hemochromatosis	Modifier	D006432
+10085150	170	197	autosomal recessive disease	DiseaseClass	D030342
+10085150	198	224	hereditary hemochromatosis	SpecificDisease	D006432
+10085150	2094	2120	hereditary hemochromatotic	Modifier	D006432
+
+10090880|t|Mutation and haplotype studies of familial Mediterranean fever reveal new ancestral relationships and evidence for a high carrier frequency with reduced penetrance in the Ashkenazi Jewish population.
+10090880|a|Familial Mediterranean fever (FMF) is a recessive disorder characterized by episodes of fever with serositis or synovitis. The FMF gene (MEFV) was cloned recently, and four missense mutations were identified. Here we present data from non-Ashkenazi Jewish and Arab patients in whom we had not originally found mutations and from a new, more ethnically diverse panel. Among 90 symptomatic mutation-positive individuals, 11 mutations accounted for 79% of carrier chromosomes. Of the two mutations that are novel, one alters the same residue (680) as a previously known mutation, and the other (P369S) is located in exon 3. Consistent with another recent report, the E148Q mutation was observed in patients of several ethnicities and on multiple microsatellite haplotypes, but haplotype data indicate an ancestral relationships between non-Jewish Italian and Ashkenazi Jewish patients with FMF and other affected populations. Among approximately 200 anonymous Ashkenazi Jewish DNA samples, the MEFV carrier frequency was 21%, with E148Q the most common mutation. Several lines of evidence indicate reduced penetrance among Ashkenazi Jews, especially for E148Q, P369S, and K695R. Nevertheless, E148Q helps account for recessive inheritance in an Ashkenazi family previously reported as an unusual case of dominantly inherited FMF. The presence of three frequent MEFV mutations in multiple Mediterranean populations strongly suggests a heterozygote advantage in this geographic region.
+10090880	34	62	familial Mediterranean fever	SpecificDisease	D010505
+10090880	200	228	Familial Mediterranean fever	SpecificDisease	D010505
+10090880	230	233	FMF	SpecificDisease	D010505
+10090880	240	258	recessive disorder	DiseaseClass	D030342
+10090880	299	308	serositis	DiseaseClass	D012700
+10090880	312	321	synovitis	DiseaseClass	D013585
+10090880	327	330	FMF	Modifier	D010505
+10090880	1087	1090	FMF	SpecificDisease	D010505
+10090880	1522	1525	FMF	SpecificDisease	D010505
+
+10090885|t|Autoimmune lymphoproliferative syndrome  with defective Fas: genotype influences penetrance.
+10090885|a|Autoimmune lymphoproliferative syndrome (ALPS) is a disorder of lymphocyte homeostasis and immunological tolerance. Most patients have a heterozygous mutation in the APT1 gene, which encodes Fas (CD95, APO-1), mediator of an apoptotic pathway crucial to lymphocyte homeostasis. Of 17 unique APT1 mutations in unrelated ALPS probands, 12 (71%) occurred in exons 7-9, which encode the intracellular portion of Fas. In vitro, activated lymphocytes from all 17 patients showed apoptotic defects when exposed to an anti-Fas agonist monoclonal antibody. Similar defects were found in a Fas-negative cell line transfected with cDNAs bearing each of the mutations. In cotransfection experiments, Fas constructs with either intra- or extracellular mutations caused dominant inhibition of apoptosis mediated by wild-type Fas. Two missense Fas variants, not restricted to patients with ALPS, were identified. Variant A (-1) T at the Fas signal-sequence cleavage site, which mediates apoptosis less well than wild-type Fas and is partially inhibitory, was present in 13% of African American alleles. Among the ALPS-associated Fas mutants, dominant inhibition of apoptosis was much more pronounced in mutants affecting the intracellular, versus extracellular, portion of the Fas receptor. Mutations causing disruption of the intracellular Fas death domain also showed a higher penetrance of ALPS phenotype features in mutation-bearing relatives. Significant ALPS-related morbidity occurred in 44% of relatives with intracellular mutations, versus 0% of relatives with extracellular mutations. Thus, the location of mutations within APT1 strongly influences the development and the severity of ALPS.
+10090885	0	39	Autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
+10090885	93	132	Autoimmune lymphoproliferative syndrome	SpecificDisease	D056735
+10090885	134	138	ALPS	SpecificDisease	D056735
+10090885	145	207	disorder of lymphocyte homeostasis and immunological tolerance	CompositeMention	D008232|D007154
+10090885	412	416	ALPS	Modifier	D056735
+10090885	968	972	ALPS	SpecificDisease	D056735
+10090885	1191	1195	ALPS	Modifier	D056735
+10090885	1471	1475	ALPS	Modifier	D056735
+10090885	1538	1542	ALPS	Modifier	D056735
+10090885	1773	1777	ALPS	SpecificDisease	D056735
+

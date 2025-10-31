@@ -1,0 +1,214 @@
+8701013|t|Famotidine-associated delirium. A series of six cases.
+8701013|a|Famotidine is a histamine H2-receptor antagonist used in inpatient settings for prevention of stress ulcers and is showing increasing popularity because of its low cost. Although all of the currently available H2-receptor antagonists have shown the propensity to cause delirium, only two previously reported cases have been associated with famotidine. The authors report on six cases of famotidine-associated delirium in hospitalized patients who cleared completely upon removal of famotidine. The pharmacokinetics of famotidine are reviewed, with no change in its metabolism in the elderly population seen. The implications of using famotidine in elderly persons are discussed.
+8701013	0	10	Famotidine	Chemical	D015738
+8701013	22	30	delirium	Disease	D003693
+8701013	55	65	Famotidine	Chemical	D015738
+8701013	156	162	ulcers	Disease	D014456
+8701013	324	332	delirium	Disease	D003693
+8701013	395	405	famotidine	Chemical	D015738
+8701013	442	452	famotidine	Chemical	D015738
+8701013	464	472	delirium	Disease	D003693
+8701013	537	547	famotidine	Chemical	D015738
+8701013	573	583	famotidine	Chemical	D015738
+8701013	689	699	famotidine	Chemical	D015738
+8701013	CID	D015738	D003693
+
+439781|t|Indomethacin induced hypotension in sodium and volume depleted rats.
+439781|a|After a single oral dose of 4 mg/kg indomethacin (IDM) to sodium and volume depleted rats plasma renin activity (PRA) and systolic blood pressure fell significantly within four hours. In sodium repleted animals indomethacin did not change systolic blood pressure (BP) although plasma renin activity was decreased. Thus, indomethacin by inhibition of prostaglandin synthesis may diminish the blood pressure maintaining effect of the stimulated renin-angiotensin system in sodium and volume depletion.
+439781	0	12	Indomethacin	Chemical	D007213
+439781	21	32	hypotension	Disease	D007022
+439781	36	42	sodium	Chemical	D012964
+439781	105	117	indomethacin	Chemical	D007213
+439781	119	122	IDM	Chemical	D007213
+439781	127	133	sodium	Chemical	D012964
+439781	256	262	sodium	Chemical	D012964
+439781	280	292	indomethacin	Chemical	D007213
+439781	389	401	indomethacin	Chemical	D007213
+439781	419	432	prostaglandin	Chemical	D011453
+439781	518	529	angiotensin	Chemical	D000809
+439781	540	546	sodium	Chemical	D012964
+439781	CID	D007213	D007022
+
+22836123|t|Late-onset scleroderma renal crisis induced by tacrolimus and prednisolone: a case report.
+22836123|a|Scleroderma renal crisis (SRC) is a rare complication of systemic sclerosis (SSc) but can be severe enough to require temporary or permanent renal replacement therapy. Moderate to high dose corticosteroid use is recognized as a major risk factor for SRC. Furthermore, there have been reports of thrombotic microangiopathy precipitated by cyclosporine in patients with SSc. In this article, we report a patient with SRC induced by tacrolimus and corticosteroids. The aim of this work is to call attention to the risk of tacrolimus use in patients with SSc.
+22836123	11	35	scleroderma renal crisis	Disease	D007674
+22836123	47	57	tacrolimus	Chemical	D016559
+22836123	62	74	prednisolone	Chemical	D011239
+22836123	91	115	Scleroderma renal crisis	Disease	D007674
+22836123	117	120	SRC	Disease	D007674
+22836123	148	166	systemic sclerosis	Disease	D012595
+22836123	168	171	SSc	Disease	D012595
+22836123	281	295	corticosteroid	Chemical	D000305
+22836123	341	344	SRC	Disease	D007674
+22836123	386	412	thrombotic microangiopathy	Disease	D057049
+22836123	429	441	cyclosporine	Chemical	D016572
+22836123	459	462	SSc	Disease	D012595
+22836123	506	509	SRC	Disease	D007674
+22836123	521	531	tacrolimus	Chemical	D016559
+22836123	536	551	corticosteroids	Chemical	D000305
+22836123	610	620	tacrolimus	Chemical	D016559
+22836123	642	645	SSc	Disease	D012595
+22836123	CID	D016572	D057049
+22836123	CID	D000305	D012595
+22836123	CID	D016559	D012595
+
+23433219|t|The risk and associated factors of methamphetamine psychosis in methamphetamine-dependent patients in Malaysia.
+23433219|a|OBJECTIVE: The objective of this study was to determine the risk of lifetime and current methamphetamine-induced psychosis in patients with methamphetamine dependence. The association between psychiatric co-morbidity and methamphetamine-induced psychosis was also studied. METHODS: This was a cross-sectional study conducted concurrently at a teaching hospital and a drug rehabilitation center in Malaysia. Patients with the diagnosis of methamphetamine based on DSM-IV were interviewed using the Mini International Neuropsychiatric Interview (M.I.N.I.) for methamphetamine-induced psychosis and other Axis I psychiatric disorders. The information on sociodemographic background and drug use history was obtained from interview or medical records. RESULTS: Of 292 subjects, 47.9% of the subjects had a past history of psychotic symptoms and 13.0% of the patients were having current psychotic symptoms. Co-morbid major depressive disorder (OR=7.18, 95 CI=2.612-19.708), bipolar disorder (OR=13.807, 95 CI=5.194-36.706), antisocial personality disorder (OR=12.619, 95 CI=6.702-23.759) and heavy methamphetamine uses were significantly associated with lifetime methamphetamine-induced psychosis after adjusted for other factors. Major depressive disorder (OR=2.870, CI=1.154-7.142) and antisocial personality disorder (OR=3.299, 95 CI=1.375-7.914) were the only factors associated with current psychosis. CONCLUSION: There was a high risk of psychosis in patients with methamphetamine dependence. It was associated with co-morbid affective disorder, antisocial personality, and heavy methamphetamine use. It is recommended that all cases of methamphetamine dependence should be screened for psychotic symptoms.
+23433219	35	50	methamphetamine	Chemical	D008694
+23433219	51	60	psychosis	Disease	D011605
+23433219	64	79	methamphetamine	Chemical	D008694
+23433219	201	216	methamphetamine	Chemical	D008694
+23433219	225	234	psychosis	Disease	D011605
+23433219	252	267	methamphetamine	Chemical	D008694
+23433219	333	348	methamphetamine	Chemical	D008694
+23433219	357	366	psychosis	Disease	D011605
+23433219	550	565	methamphetamine	Chemical	D008694
+23433219	670	685	methamphetamine	Chemical	D008694
+23433219	694	703	psychosis	Disease	D011605
+23433219	721	742	psychiatric disorders	Disease	D001523
+23433219	930	948	psychotic symptoms	Disease	D011605
+23433219	995	1013	psychotic symptoms	Disease	D011605
+23433219	1031	1050	depressive disorder	Disease	D003866
+23433219	1082	1098	bipolar disorder	Disease	D001714
+23433219	1132	1163	antisocial personality disorder	Disease	D000987
+23433219	1206	1221	methamphetamine	Chemical	D008694
+23433219	1271	1286	methamphetamine	Chemical	D008694
+23433219	1295	1304	psychosis	Disease	D011605
+23433219	1339	1364	Major depressive disorder	Disease	D003865
+23433219	1396	1427	antisocial personality disorder	Disease	D000987
+23433219	1504	1513	psychosis	Disease	D011605
+23433219	1552	1561	psychosis	Disease	D011605
+23433219	1579	1594	methamphetamine	Chemical	D008694
+23433219	1640	1658	affective disorder	Disease	D019964
+23433219	1660	1682	antisocial personality	Disease	D000987
+23433219	1694	1709	methamphetamine	Chemical	D008694
+23433219	1751	1766	methamphetamine	Chemical	D008694
+23433219	1801	1819	psychotic symptoms	Disease	D011605
+23433219	CID	D008694	D011605
+23433219	CID	D008694	D001714
+23433219	CID	D008694	D000987
+
+23535177|t|Cerebellar sensory processing alterations impact motor cortical plasticity in Parkinson's disease: clues from dyskinetic patients.
+23535177|a|The plasticity of primary motor cortex (M1) in patients with Parkinson's disease (PD) and levodopa-induced dyskinesias (LIDs) is severely impaired. We recently reported in young healthy subjects that inhibitory cerebellar stimulation enhanced the sensorimotor plasticity of M1 that was induced by paired associative stimulation (PAS). This study demonstrates that the deficient sensorimotor M1 plasticity in 16 patients with LIDs could be reinstated by a single session of real inhibitory cerebellar stimulation but not sham stimulation. This was evident only when a sensory component was involved in the induction of plasticity, indicating that cerebellar sensory processing function is involved in the resurgence of M1 plasticity. The benefit of inhibitory cerebellar stimulation on LIDs is known. To explore whether this benefit is linked to the restoration of sensorimotor plasticity of M1, we conducted an additional study looking at changes in LIDs and PAS-induced plasticity after 10 sessions of either bilateral, real inhibitory cerebellar stimulation or sham stimulation. Only real and not sham stimulation had an antidyskinetic effect and it was paralleled by a resurgence in the sensorimotor plasticity of M1. These results suggest that alterations in cerebellar sensory processing function, occurring secondary to abnormal basal ganglia signals reaching it, may be an important element contributing to the maladaptive sensorimotor plasticity of M1 and the emergence of abnormal involuntary movements.
+23535177	78	97	Parkinson's disease	Disease	D010300
+23535177	110	120	dyskinetic	Disease	D004409
+23535177	192	211	Parkinson's disease	Disease	D010300
+23535177	213	215	PD	Disease	D010300
+23535177	221	229	levodopa	Chemical	D007980
+23535177	238	249	dyskinesias	Disease	D004409
+23535177	251	255	LIDs	Disease	D004409
+23535177	556	560	LIDs	Disease	D004409
+23535177	916	920	LIDs	Disease	D004409
+23535177	1081	1085	LIDs	Disease	D004409
+23535177	1612	1642	abnormal involuntary movements	Disease	D004409
+23535177	CID	D007980	D004409
+
+23666265|t|The function of P2X3 receptor and NK1 receptor antagonists on cyclophosphamide-induced cystitis in rats.
+23666265|a|PURPOSE: The purpose of the study is to explore the function of P2X3 and NK1 receptors antagonists on cyclophosphamide (CYP)-induced cystitis in rats. METHODS: Sixty female Sprague-Dawley (SD) rats were randomly divided into three groups. The rats in the control group were intraperitoneally (i.p.) injected with 0.9% saline (4 ml/kg); the rats in the model group were i.p. injected with CYP (150 mg/kg); and the rats in the intervention group were i.p. injected with CYP with subsequently perfusion of bladder with P2X3 and NK1 receptors' antagonists, Suramin and GR 82334. Spontaneous pain behaviors following the administration of CYP were observed. Urodynamic parameters, bladder pressure-volume curve, maximum voiding pressure (MVP), and maximum cystometric capacity (MCC), were recorded. Pathological changes in bladder tissue were observed. Immunofluorescence was used to detect the expression of P2X3 and NK1 receptors in bladder. RESULTS: Cyclophosphamide treatment increased the spontaneous pain behaviors scores. The incidence of bladder instability during urine storage period of model group was significantly higher than intervention group (X(2) = 7.619, P = 0.007) and control group (X(2) = 13.755, P = 0.000). MCC in the model group was lower than the control and intervention groups (P < 0.01). Histological changes evident in model and intervention groups rats' bladder included edema, vasodilation, and infiltration of inflammatory cells. In model group, the expression of P2X3 receptor increased in urothelium and suburothelium, and NK1 receptor increased in suburothelium, while the expression of them in intervention group was lower. CONCLUSIONS: In CYP-induced cystitis, the expression of P2X3 and NK1 receptors increased in urothelium and/or suburothelium. Perfusion of bladder with P2X3 and NK1 receptors antagonists ameliorated the bladder function.
+23666265	62	78	cyclophosphamide	Chemical	D003520
+23666265	87	95	cystitis	Disease	D003556
+23666265	207	223	cyclophosphamide	Chemical	D003520
+23666265	225	228	CYP	Chemical	D003520
+23666265	238	246	cystitis	Disease	D003556
+23666265	493	496	CYP	Chemical	D003520
+23666265	573	576	CYP	Chemical	D003520
+23666265	658	665	Suramin	Chemical	D013498
+23666265	670	678	GR 82334	Chemical	C079014
+23666265	692	696	pain	Disease	D010146
+23666265	739	742	CYP	Chemical	D003520
+23666265	1053	1069	Cyclophosphamide	Chemical	D003520
+23666265	1106	1110	pain	Disease	D010146
+23666265	1501	1506	edema	Disease	D004487
+23666265	1776	1779	CYP	Chemical	D003520
+23666265	1788	1796	cystitis	Disease	D003556
+23666265	CID	D003520	D003556
+23666265	CID	D003520	D010146
+23666265	CID	D003520	D004487
+
+23846525|t|Acute hepatitis associated with clopidogrel: a case report and review of the literature.
+23846525|a|Drug-induced hepatotoxicity is a common cause of acute hepatitis, and the recognition of the responsible drug may be difficult. We describe a case of clopidogrel-related acute hepatitis. The diagnosis is strongly suggested by an accurate medical history and liver biopsy. Reports about cases of hepatotoxicity due to clopidogrel are increasing in the last few years, after the increased use of this drug. In conclusion, we believe that physicians should carefully consider the risk of drug-induced hepatic injury when clopidogrel is prescribed.
+23846525	6	15	hepatitis	Disease	D056486
+23846525	32	43	clopidogrel	Chemical	C055162
+23846525	102	116	hepatotoxicity	Disease	D056486
+23846525	144	153	hepatitis	Disease	D056486
+23846525	239	250	clopidogrel	Chemical	C055162
+23846525	265	274	hepatitis	Disease	D056486
+23846525	384	398	hepatotoxicity	Disease	D056486
+23846525	406	417	clopidogrel	Chemical	C055162
+23846525	587	601	hepatic injury	Disease	D056486
+23846525	607	618	clopidogrel	Chemical	C055162
+23846525	CID	C055162	D056486
+
+23864035|t|Bortezomib and dexamethasone as salvage therapy in patients with relapsed/refractory multiple myeloma: analysis of long-term clinical outcomes.
+23864035|a|Bortezomib (bort)-dexamethasone (dex) is an effective therapy for relapsed/refractory (R/R) multiple myeloma (MM). This retrospective study investigated the combination of bort (1.3 mg/m(2) on days 1, 4, 8, and 11 every 3 weeks) and dex (20 mg on the day of and the day after bort) as salvage treatment in 85 patients with R/R MM after prior autologous stem cell transplantation or conventional chemotherapy. The median number of prior lines of therapy was 2. Eighty-seven percent of the patients had received immunomodulatory drugs included in some line of therapy before bort-dex. The median number of bort-dex cycles was 6, up to a maximum of 12 cycles. On an intention-to-treat basis, 55 % of the patients achieved at least partial response, including 19 % CR and 35 % achieved at least very good partial response. Median durations of response, time to next therapy and treatment-free interval were 8, 11.2, and 5.1 months, respectively. The most relevant adverse event was peripheral neuropathy, which occurred in 78 % of the patients (grade II, 38 %; grade III, 21 %) and led to treatment discontinuation in 6 %. With a median follow up of 22 months, median time to progression, progression-free survival (PFS) and overall survival (OS) were 8.9, 8.7, and 22 months, respectively. Prolonged PFS and OS were observed in patients achieving CR and receiving bort-dex a single line of prior therapy. Bort-dex was an effective salvage treatment for MM patients, particularly for those in first relapse.
+23864035	0	10	Bortezomib	Chemical	C400082
+23864035	15	28	dexamethasone	Chemical	D003907
+23864035	85	101	multiple myeloma	Disease	D009101
+23864035	144	154	Bortezomib	Chemical	C400082
+23864035	156	160	bort	Chemical	C400082
+23864035	162	175	dexamethasone	Chemical	D003907
+23864035	177	180	dex	Chemical	D003907
+23864035	236	252	multiple myeloma	Disease	D009101
+23864035	254	256	MM	Disease	D009101
+23864035	316	320	bort	Chemical	C400082
+23864035	377	380	dex	Chemical	D003907
+23864035	420	424	bort	Chemical	C400082
+23864035	471	473	MM	Disease	D009101
+23864035	717	721	bort	Chemical	C400082
+23864035	722	725	dex	Chemical	D003907
+23864035	748	752	bort	Chemical	C400082
+23864035	753	756	dex	Chemical	D003907
+23864035	1122	1143	peripheral neuropathy	Disease	D010523
+23864035	1505	1509	bort	Chemical	C400082
+23864035	1510	1513	dex	Chemical	D003907
+23864035	1546	1550	Bort	Chemical	C400082
+23864035	1551	1554	dex	Chemical	D003907
+23864035	1594	1596	MM	Disease	D009101
+23864035	CID	D003907	D010523
+23864035	CID	C400082	D010523
+
+23871786|t|Pubertal exposure to Bisphenol A increases anxiety-like behavior and decreases acetylcholinesterase activity of hippocampus in adult male mice.
+23871786|a|The negative effects of Bisphenol A (BPA) on neurodevelopment and behaviors have been well established. Acetylcholinesterase (AChE) is a regulatory enzyme which is involved in anxiety-like behavior. This study investigated behavioral phenotypes and AChE activity in male mice following BPA exposure during puberty. On postnatal day (PND) 35, male mice were exposed to 50mg BPA/kg diet per day for a period of 35 days. On PND71, a behavioral assay was performed using the elevated plus maze (EPM) and the light/dark test. In addition, AChE activity was measured in the prefrontal cortex, hypothalamus, cerebellum and hippocampus. Results from our behavioral phenotyping indicated that anxiety-like behavior was increased in mice exposed to BPA. AChE activity was significantly decreased in the hippocampus of mice with BPA compared to control mice, whereas no difference was found in the prefrontal cortex, hypothalamus and cerebellum. Our findings showed that pubertal BPA exposure increased anxiety-like behavior, which may be associated with decreased AChE activity of the hippocampus in adult male mice. Further studies are necessary to investigate the cholinergic signaling of the hippocampus in PBE induced anxiety-like behaviors.
+23871786	21	32	Bisphenol A	Chemical	C006780
+23871786	43	50	anxiety	Disease	D001008
+23871786	168	179	Bisphenol A	Chemical	C006780
+23871786	181	184	BPA	Chemical	C006780
+23871786	320	327	anxiety	Disease	D001008
+23871786	430	433	BPA	Chemical	C006780
+23871786	517	520	BPA	Chemical	C006780
+23871786	828	835	anxiety	Disease	D001008
+23871786	883	886	BPA	Chemical	C006780
+23871786	962	965	BPA	Chemical	C006780
+23871786	1113	1116	BPA	Chemical	C006780
+23871786	1136	1143	anxiety	Disease	D001008
+23871786	1356	1363	anxiety	Disease	D001008
+23871786	CID	C006780	D001008
+
+23872883|t|Biochemical effects of Solidago virgaurea extract on experimental cardiotoxicity.
+23872883|a|Cardiovascular diseases (CVDs) are the major health problem of advanced as well as developing countries of the world. The aim of the present study was to investigate the protective effect of the Solidago virgaurea extract on isoproterenol-induced cardiotoxicity in rats. The subcutaneous injection of isoproterenol (30 mg/kg) into rats twice at an interval of 24 h, for two consecutive days, led to a significant increase in serum lactate dehydrogenase, creatine phosphokinase, alanine transaminase, aspartate transaminase, and angiotensin-converting enzyme activities, total cholesterol, triglycerides, free serum fatty acid, cardiac tissue malondialdehyde (MDA), and nitric oxide levels and a significant decrease in levels of glutathione and superoxide dismutase in cardiac tissue as compared to the normal control group (P < 0.05). Pretreatment with S. virgaurea extract for 5 weeks at a dose of 250 mg/kg followed by isoproterenol injection significantly prevented the observed alterations. Captopril (50 mg/kg/day, given orally), an inhibitor of angiotensin-converting enzyme used as a standard cardioprotective drug, was used as a positive control in this study. The data of the present study suggest that S. virgaurea extract exerts its protective effect by decreasing MDA level and increasing the antioxidant status in isoproterenol-treated rats. The study emphasizes the beneficial action of S. virgaurea extract as a cardioprotective agent.
+23872883	66	80	cardiotoxicity	Disease	D066126
+23872883	82	105	Cardiovascular diseases	Disease	D002318
+23872883	107	111	CVDs	Disease	D002318
+23872883	307	320	isoproterenol	Chemical	D007545
+23872883	329	343	cardiotoxicity	Disease	D066126
+23872883	383	396	isoproterenol	Chemical	D007545
+23872883	513	520	lactate	Chemical	D019344
+23872883	536	544	creatine	Chemical	D003401
+23872883	560	567	alanine	Chemical	D000409
+23872883	582	591	aspartate	Chemical	D001224
+23872883	610	621	angiotensin	Chemical	D000809
+23872883	658	669	cholesterol	Chemical	D002784
+23872883	671	684	triglycerides	Chemical	D014280
+23872883	697	707	fatty acid	Chemical	D005227
+23872883	724	739	malondialdehyde	Chemical	D008315
+23872883	741	744	MDA	Chemical	D008315
+23872883	751	763	nitric oxide	Chemical	D009569
+23872883	811	822	glutathione	Chemical	D005978
+23872883	827	837	superoxide	Chemical	D013481
+23872883	1004	1017	isoproterenol	Chemical	D007545
+23872883	1078	1087	Captopril	Chemical	D002216
+23872883	1134	1145	angiotensin	Chemical	D000809
+23872883	1359	1362	MDA	Chemical	D008315
+23872883	1410	1423	isoproterenol	Chemical	D007545
+23872883	CID	D007545	D066126
+

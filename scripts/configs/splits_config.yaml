@@ -1,0 +1,14 @@
+# keep official splits
+cdr:          {keep_original: true}
+cometa:       {keep_original: true}
+medmentions:  {keep_original: true}
+ncbi_disease: {keep_original: true}
+
+# train+test only → carve 10 % dev from train
+shareclef: {dev_from_train: 0.1}
+adr: {dev_from_train: 0.1}
+
+
+# no splits → 50/10/40
+_default_no_split: [0.5, 0.1, 0.4]
+_default_two_split: 0.1

@@ -1,0 +1,6 @@
+T7	C0032074 2 6	plan
+#7	AnnotatorNotes T7	"C0032074", "Cognitive function: planning", "Mental Process" ,"PHYS"
+T8	C0032961 17 25	pregnant
+#8	AnnotatorNotes T8	"C0032961", "Pregnancy", "Organism Function" ,"PHYS"
+T11	C0549206 17 25	pregnant
+#11	AnnotatorNotes T11	"C0549206", "Patient currently pregnant", "Finding" ,"DISO"

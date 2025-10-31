@@ -1,0 +1,11 @@
+{
+    "medmentions":        "abstracts",
+    "cdr":                "abstracts",
+    "ncbi_disease":       "abstracts",
+    "mantra-gsc":         "mixed",
+    "shareclef":          "clinical",
+    "mimic-iv":           "clinical",
+    "adr":                "drug_patents",
+    "cadec":              "social_media",
+    "cometa":             "social_media"
+}

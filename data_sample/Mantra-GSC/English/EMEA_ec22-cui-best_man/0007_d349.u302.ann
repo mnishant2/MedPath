@@ -1,0 +1,4 @@
+T10	C0029944 27 35	overdose
+#10	AnnotatorNotes T10	"C0029944", "overdose", "Injury or Poisoning" ,"DISO"
+T11	C0031831 60 66	doctor
+#11	AnnotatorNotes T11	"C0031831", "Physicians", "Professional or Occupational Group" ,"LIVB"

@@ -1,0 +1,13 @@
+# Outputs
+data_processed/
+# vocab_path_files
+path_data/
+# Credentials (private)
+scripts/configs/credentials.yaml
+
+# Logs (root and nested)
+logs/
+**/logs/
+
+
+

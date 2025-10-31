@@ -1,0 +1,500 @@
+126813005||Neoplasm of anterior aspect of epiglottis
+126813005||Neoplasm of anterior aspect of epiglottis (disorder)
+126814004||Neoplasm of junctional region of epiglottis
+126814004||Neoplasm of junctional region of epiglottis (disorder)
+126815003||Neoplasm of lateral wall of oropharynx
+126815003||Neoplasm of lateral wall of oropharynx (disorder)
+126816002||Neoplasm of posterior wall of oropharynx
+126816002||Neoplasm of posterior wall of oropharynx (disorder)
+126816002||Tumour of posterior wall of oropharynx
+126816002||Tumor of posterior wall of oropharynx
+126817006||Neoplasm of esophagus
+126817006||Tumour of oesophagus
+126817006||Tumor of esophagus
+126817006||Neoplasm of oesophagus
+126817006||Neoplasm of esophagus (disorder)
+126818001||Neoplasm of cervical esophagus
+126818001||Neoplasm of cervical oesophagus
+126818001||Neoplasm of cervical esophagus (disorder)
+126818001||Tumour of cervical part of oesophagus
+126818001||Tumor of cervical part of esophagus
+126819009||Neoplasm of thoracic esophagus
+126819009||Neoplasm of thoracic oesophagus
+126819009||Neoplasm of thoracic esophagus (disorder)
+126819009||Tumour of thoracic part of oesophagus
+126819009||Tumor of thoracic part of esophagus
+126820003||Neoplasm of abdominal esophagus
+126820003||Neoplasm of abdominal oesophagus
+126820003||Neoplasm of abdominal esophagus (disorder)
+126820003||Tumour of abdominal part of oesophagus
+126820003||Tumor of abdominal part of esophagus
+126822006||Neoplasm of middle third of esophagus
+126822006||Neoplasm of middle third of oesophagus
+126822006||Neoplasm of middle third of esophagus (disorder)
+126822006||Tumour of middle third of oesophagus
+126822006||Tumor of middle third of esophagus
+126823001||Neoplasm of lower third of esophagus
+126823001||Neoplasm of lower third of oesophagus
+126823001||Neoplasm of lower third of esophagus (disorder)
+126823001||Tumour of lower third of oesophagus
+126823001||Tumor of lower third of esophagus
+126824007||Neoplasm of stomach
+126824007||Tumour of stomach
+126824007||Tumor of stomach
+126824007||Neoplasm of stomach (disorder)
+126825008||Neoplasm of cardia of stomach
+126825008||Neoplasm of cardia of stomach (disorder)
+126825008||Tumour of cardia
+126825008||Tumor of cardia
+126826009||Neoplasm of fundus of stomach
+126826009||Neoplasm of fundus of stomach (disorder)
+126826009||Tumour of fundus of stomach
+126826009||Tumor of fundus of stomach
+126827000||Neoplasm of body of stomach
+126827000||Neoplasm of body of stomach (disorder)
+126827000||Tumour of body of stomach
+126827000||Tumor of body of stomach
+126828005||Neoplasm of lesser curvature of stomach
+126828005||Neoplasm of lesser curvature of stomach (disorder)
+126829002||Neoplasm of greater curvature of stomach
+126829002||Neoplasm of greater curvature of stomach (disorder)
+126829002||Tumour of greater curve of stomach
+126829002||Tumor of greater curve of stomach
+126830007||Neoplasm of pyloric antrum
+126830007||Neoplasm of pyloric antrum (disorder)
+126830007||Tumour of pyloric antrum
+126830007||Tumor of pyloric antrum
+126831006||Neoplasm of pylorus
+126831006||Neoplasm of pylorus (disorder)
+126831006||Tumour of pylorus
+126831006||Tumor of pylorus
+126832004||Neoplasm of small intestine
+126832004||Tumour of small intestine
+126832004||Tumor of small intestine
+126832004||Neoplasm of small intestine (disorder)
+126833009||Neoplasm of duodenum
+126833009||Tumor of duodenum
+126833009||Tumour of duodenum
+126833009||Neoplasm of duodenum (disorder)
+126834003||Neoplasm of jejunum
+126834003||Neoplasm of jejunum (disorder)
+126834003||Tumour of jejunum
+126834003||Tumor of jejunum
+126835002||Neoplasm of ileum
+126835002||Neoplasm of ileum (disorder)
+126835002||Tumour of ileum
+126835002||Tumor of ileum
+126836001||Neoplasm of Meckel's diverticulum
+126836001||Neoplasm of Meckel's diverticulum (disorder)
+126836001||Tumour of Meckel's diverticulum
+126836001||Tumor of Meckel's diverticulum
+126836001||Neoplasm of Meckel diverticulum
+126837005||Neoplasm of large intestine
+126837005||Tumour of large intestine
+126837005||Tumor of large intestine
+126837005||Neoplasm of large intestine (disorder)
+126838000||Neoplasm of colon
+126838000||Tumor of colon
+126838000||Tumour of colon
+126838000||Neoplasm of colon (disorder)
+126839008||Neoplasm of cecum
+126839008||Tumour of caecum
+126839008||Tumor of cecum
+126839008||Neoplasm of caecum
+126839008||Neoplasm of cecum (disorder)
+126840005||Neoplasm of ascending colon
+126840005||Tumor of ascending colon
+126840005||Tumour of ascending colon
+126840005||Neoplasm of ascending colon (disorder)
+126841009||Neoplasm of hepatic flexure of colon
+126841009||Neoplasm of hepatic flexure of colon (disorder)
+126841009||Tumour of hepatic flexure
+126841009||Tumor of hepatic flexure
+126842002||Neoplasm of transverse colon
+126842002||Tumour of transverse colon
+126842002||Tumor of transverse colon
+126842002||Neoplasm of transverse colon (disorder)
+126843007||Neoplasm of splenic flexure of colon
+126843007||Neoplasm of splenic flexure of colon (disorder)
+126843007||Tumour of splenic flexure
+126843007||Tumor of splenic flexure
+126844001||Neoplasm of descending colon
+126844001||Tumour of descending colon
+126844001||Tumor of descending colon
+126844001||Neoplasm of descending colon (disorder)
+126845000||Neoplasm of sigmoid colon
+126845000||Neoplasm of sigmoid colon (disorder)
+126845000||Tumour of sigmoid colon
+126845000||Tumor of sigmoid colon
+126846004||Neoplasm of appendix
+126846004||Tumour of appendix
+126846004||Tumor of appendix
+126846004||Neoplasm of appendix (disorder)
+126846004||Appendiceal tumour
+126846004||Appendiceal tumor
+126847008||Neoplasm of rectum
+126847008||Tumor of rectum
+126847008||Tumour of rectum
+126847008||Neoplasm of rectum (disorder)
+126848003||Neoplasm of rectosigmoid junction
+126848003||Tumour of rectosigmoid junction
+126848003||Tumor of rectosigmoid junction
+126848003||Neoplasm of rectosigmoid junction (disorder)
+126849006||Neoplasm of anus
+126849006||Tumor of anus
+126849006||Tumour of anus
+126849006||Neoplasm of anus (disorder)
+126850006||Neoplasm of anal canal
+126850006||Neoplasm of anal canal (disorder)
+126850006||Tumour of anal canal
+126850006||Tumor of anal canal
+126851005||Neoplasm of liver
+126851005||Hepatoma
+126851005||Tumour of liver
+126851005||Hepatic tumour
+126851005||Hepatic tumor
+126851005||Tumor of liver
+126851005||Neoplasm of liver (disorder)
+126852003||Neoplasm of intrahepatic bile ducts
+126852003||Neoplasm of intrahepatic bile ducts (disorder)
+126853008||Neoplasm of biliary tract
+126853008||Tumor of biliary tract
+126853008||Tumour of biliary tract
+126853008||Neoplasm of biliary tract (disorder)
+126854002||Neoplasm of gallbladder
+126854002||Tumour of gallbladder
+126854002||Tumor of gallbladder
+126854002||Neoplasm of gallbladder (disorder)
+126855001||Neoplasm of extrahepatic bile ducts
+126855001||Tumor of extrahepatic bile duct
+126855001||Tumour of extrahepatic bile duct
+126855001||Neoplasm of extrahepatic bile ducts (disorder)
+126856000||Neoplasm of cystic duct
+126856000||Neoplasm of cystic duct (disorder)
+126857009||Neoplasm of common bile duct
+126857009||Neoplasm of common bile duct (disorder)
+126858004||Neoplasm of ampulla of Vater
+126858004||Tumour of ampulla of Vater
+126858004||Tumor of ampulla of Vater
+126858004||Neoplasm of ampulla of Vater (disorder)
+126859007||Neoplasm of pancreas
+126859007||Tumor of pancreas
+126859007||Tumour of pancreas
+126859007||Neoplasm of pancreas (disorder)
+126860002||Neoplasm of head of pancreas
+126860002||Neoplasm of head of pancreas (disorder)
+126860002||Tumour of head of pancreas
+126860002||Tumor of head of pancreas
+126861003||Neoplasm of body of pancreas
+126861003||Neoplasm of body of pancreas (disorder)
+126861003||Tumour of body of pancreas
+126861003||Tumor of body of pancreas
+126862005||Neoplasm of tail of pancreas
+126862005||Neoplasm of tail of pancreas (disorder)
+126862005||Tumour of tail of pancreas
+126862005||Tumor of tail of pancreas
+126863000||Neoplasm of pancreatic duct
+126863000||Neoplasm of pancreatic duct (disorder)
+126863000||Tumour of pancreatic duct
+126863000||Tumor of pancreatic duct
+126864006||Neoplasm of islets of Langerhans
+126864006||Neoplasm of endocrine pancreas (disorder)
+126864006||Neoplasm of endocrine pancreas
+126864006||Pancreatic endocrine tumour
+126864006||Tumour of endocrine pancreas
+126864006||Pancreatic endocrine tumor
+126864006||Tumor of endocrine pancreas
+126865007||Neoplasm of the peritoneum
+126865007||Neoplasm of peritoneum
+126865007||Tumour of peritoneum
+126865007||Tumor of peritoneum
+126865007||Neoplasm of peritoneum (disorder)
+126866008||Neoplasm of parietal peritoneum
+126866008||Neoplasm of parietal peritoneum (disorder)
+126867004||Neoplasm of pelvic peritoneum
+126867004||Neoplasm of pelvic peritoneum (disorder)
+126868009||Neoplasm of rectouterine pouch
+126868009||Neoplasm of rectouterine pouch (disorder)
+126870000||Neoplasm of the mesocolon
+126870000||Neoplasm of the mesocolon (disorder)
+126871001||Neoplasm of the omentum
+126871001||Neoplasm of omentum (disorder)
+126871001||Neoplasm of omentum
+126872008||Neoplasm of the retroperitoneum
+126872008||Neoplasm of retroperitoneum
+126872008||Neoplasm of retroperitoneum (disorder)
+126872008||Tumour of retroperitoneum
+126872008||Tumor of retroperitoneum
+126873003||Neoplasm of periadrenal tissue
+126873003||Neoplasm of periadrenal tissue (disorder)
+126874009||Neoplasm of perirenal tissue
+126874009||Neoplasm of perirenal tissue (disorder)
+126875005||Neoplasm of retrocecal tissue
+126875005||Neoplasm of retrocaecal tissue
+126875005||Neoplasm of retrocecal tissue (disorder)
+126876006||Neoplasm of mesothelial tissue of peritoneum
+126876006||Neoplasm of mesothelial tissue of peritoneum (disorder)
+126877002||Disorder of glucose metabolism
+126877002||Disorder of glucose metabolism (disorder)
+126878007||Persistent preputial frenulum
+126878007||Persistent preputial frenulum (disorder)
+126879004||Neoplasm of urinary system
+126879004||Neoplasm of urinary system (disorder)
+126880001||Neoplasm of kidney
+126880001||Neoplasm of kidney (disorder)
+126880001||Renal tumour
+126880001||Tumour of kidney
+126880001||Tumor of kidney
+126880001||Renal tumor
+126881002||Neoplasm of renal pelvis
+126881002||Neoplasm of renal pelvis (disorder)
+126881002||Tumour of renal pelvis
+126881002||Tumor of renal pelvis
+126882009||Neoplasm of ureter
+126882009||Neoplasm of ureter (disorder)
+126882009||Tumour of ureter
+126882009||Tumor of ureter
+126883004||Neoplasm of urethra
+126883004||Tumor of urethra
+126883004||Urethral tumor
+126883004||Tumour of urethra
+126883004||Urethral tumour
+126883004||Neoplasm of urethra (disorder)
+126884005||Neoplasm of paraurethral glands
+126884005||Tumour of paraurethral gland
+126884005||Tumor of paraurethral gland
+126884005||Neoplasm of paraurethral glands (disorder)
+126885006||Neoplasm of bladder
+126885006||Neoplasm of bladder (disorder)
+126885006||Tumour of urinary bladder
+126885006||Tumor of urinary bladder
+126885006||NGB - New growth of bladder
+126886007||Neoplasm of trigone of urinary bladder
+126886007||Neoplasm of trigone of urinary bladder (disorder)
+126886007||Tumour of trigone of bladder
+126886007||Tumor of trigone of bladder
+126887003||Neoplasm of apex of urinary bladder
+126887003||Neoplasm of apex of urinary bladder (disorder)
+126888008||Neoplasm of lateral wall of urinary bladder
+126888008||Neoplasm of lateral wall of urinary bladder (disorder)
+126889000||Neoplasm of anterior wall of urinary bladder
+126889000||Neoplasm of anterior wall of urinary bladder (disorder)
+126890009||Neoplasm of posterior wall of urinary bladder
+126890009||Neoplasm of posterior wall of urinary bladder (disorder)
+126891008||Neoplasm of urinary bladder neck
+126891008||Neoplasm of urinary bladder neck (disorder)
+126892001||Neoplasm of ureteric orifice of urinary bladder
+126892001||Neoplasm of ureteric orifice of urinary bladder (disorder)
+126892001||Tumour of ureteric orifice
+126892001||Tumor of ureteric orifice
+126893006||Neoplasm of urachus
+126893006||Neoplasm of urachus (disorder)
+126893006||Tumour of urachus
+126893006||Tumor of urachus
+126895004||Neoplasm of male genital organ
+126895004||Tumor of male genital organs
+126895004||Tumour of male genital organs
+126895004||Neoplasm of male genital organ (disorder)
+126896003||Neoplasm of penis
+126896003||Tumour of penis
+126896003||Tumor of penis
+126896003||Neoplasm of penis (disorder)
+126897007||Neoplasm of prepuce
+126897007||Tumor of foreskin
+126897007||Tumour of foreskin
+126897007||Neoplasm of prepuce (disorder)
+126898002||Neoplasm of glans penis
+126898002||Neoplasm of glans penis (disorder)
+126898002||Tumour of glans penis
+126898002||Tumor of glans penis
+126899005||Neoplasm of body of penis
+126899005||Neoplasm of body of penis (disorder)
+126899005||Tumour of body of penis
+126899005||Tumor of body of penis
+126900000||Neoplasm of testis
+126900000||Tumour of testis
+126900000||Tumor of testis
+126900000||Neoplasm of testis (disorder)
+126901001||Neoplasm of undescended testis
+126901001||Neoplasm of undescended testis (disorder)
+126902008||Neoplasm of epididymis
+126902008||Tumor of epididymis
+126902008||Tumour of epididymis
+126902008||Neoplasm of epididymis (disorder)
+126903003||Neoplasm of vas deferens
+126903003||Neoplasm of vas deferens (disorder)
+126904009||Neoplasm of spermatic cord
+126904009||Tumour of spermatic cord
+126904009||Tumor of spermatic cord
+126904009||Neoplasm of spermatic cord (disorder)
+126905005||Neoplasm of scrotum
+126905005||Tumor of scrotum
+126905005||Tumour of scrotum
+126905005||Neoplasm of scrotum (disorder)
+126906006||Neoplasm of prostate
+126906006||Neoplasm of prostate (disorder)
+126906006||Tumour of prostate
+126906006||Tumor of prostate
+126906006||NGP - New growth of prostate
+126907002||Neoplasm of female genital organ
+126907002||Tumour of female genital organs
+126907002||Tumor of female genital organs
+126907002||Neoplasm of female genital organ (disorder)
+126908007||Neoplasm of uterus
+126908007||Tumor of uterus
+126908007||Tumour of uterus
+126908007||Neoplasm of uterus (disorder)
+126909004||Neoplasm of body of uterus
+126909004||Neoplasm of body of uterus (disorder)
+126910009||Neoplasm of myometrium
+126910009||Neoplasm of myometrium (disorder)
+126911008||Neoplasm of isthmus of uterus
+126911008||Neoplasm of isthmus of uterus (disorder)
+126912001||Neoplasm of endocervix
+126912001||Neoplasm of endocervix (disorder)
+126913006||Neoplasm of exocervix
+126913006||Neoplasm of exocervix (disorder)
+126914000||Neoplasm of fundus uteri
+126914000||Neoplasm of fundus uteri (disorder)
+126915004||Neoplasm of uterine adnexa
+126915004||Neoplasm of uterine adnexa (disorder)
+126916003||Neoplasm of fallopian tube
+126916003||Neoplasm of fallopian tube (disorder)
+126916003||Tumour of fallopian tube
+126916003||Tumor of fallopian tube
+126917007||Neoplasm of broad ligament
+126917007||Neoplasm of broad ligament (disorder)
+126918002||Neoplasm of parametrium
+126918002||Neoplasm of parametrium (disorder)
+126919005||Neoplasm of round ligament of uterus
+126919005||Neoplasm of round ligament of uterus (disorder)
+126920004||Neoplasm of placenta
+126920004||Neoplasm of placenta (disorder)
+126921000||Neoplasm of vagina
+126921000||Tumour of vagina
+126921000||Tumor of vagina
+126921000||Neoplasm of vagina (disorder)
+126922007||Neoplasm of vulva
+126922007||Tumor of vulva
+126922007||Tumour of vulva
+126922007||Neoplasm of vulva (disorder)
+126923002||Neoplasm of labia majora
+126923002||Neoplasm of labia majora (disorder)
+126924008||Neoplasm of labia minora
+126924008||Neoplasm of labia minora (disorder)
+126925009||Neoplasm of clitoris
+126925009||Neoplasm of clitoris (disorder)
+126926005||Neoplasm of breast
+126926005||Tumour of breast
+126926005||Breast tumour
+126926005||Breast tumor
+126926005||Tumor of breast
+126926005||Neoplasm of breast (disorder)
+126927001||Neoplasm of female breast
+126927001||Neoplasm of female breast (disorder)
+126928006||Neoplasm of nipple of female breast
+126928006||Neoplasm of nipple of female breast (disorder)
+126929003||Neoplasm of areola of female breast
+126929003||Neoplasm of areola of female breast (disorder)
+126930008||Neoplasm of central portion of female breast
+126930008||Neoplasm of central portion of female breast (disorder)
+126931007||Neoplasm of upper inner quadrant of female breast
+126931007||Neoplasm of upper inner quadrant of female breast (disorder)
+126932000||Neoplasm of lower inner quadrant of female breast
+126932000||Neoplasm of lower inner quadrant of female breast (disorder)
+126933005||Neoplasm of upper outer quadrant of female breast
+126933005||Neoplasm of upper outer quadrant of female breast (disorder)
+126934004||Neoplasm of lower outer quadrant of female breast
+126934004||Neoplasm of lower outer quadrant of female breast (disorder)
+126935003||Neoplasm of axillary tail of female breast
+126935003||Neoplasm of axillary tail of female breast (disorder)
+126936002||Neoplasm of ectopic female breast tissue
+126936002||Neoplasm of ectopic female breast tissue (disorder)
+126937006||Neoplasm of male breast
+126937006||Neoplasm of male breast (disorder)
+126938001||Neoplasm of nipple of male breast
+126938001||Neoplasm of nipple of male breast (disorder)
+126939009||Neoplasm of areola of male breast
+126939009||Neoplasm of areola of male breast (disorder)
+126940006||Neoplasm of ectopic male breast tissue
+126940006||Neoplasm of ectopic male breast tissue (disorder)
+126941005||Subdural hemorrhage due to birth trauma
+126941005||Subdural haemorrhage due to birth trauma
+126941005||Subdural intracranial haemorrhage due to birth trauma
+126941005||Subdural intracranial hemorrhage due to birth trauma (disorder)
+126941005||Subdural intracranial hemorrhage due to birth trauma
+126943008||Separation anxiety
+126943008||Separation anxiety (disorder)
+126945001||Perinatal anoxic-ischemic brain injury
+126945001||Perinatal anoxic-ischaemic brain injury
+126945001||Perinatal hypoxic - ischaemic encephalopathy
+126945001||HIE - Perinatal hypoxic - ischaemic encephalopathy
+126945001||HIE - Perinatal hypoxic - ischemic encephalopathy
+126945001||Perinatal hypoxic - ischemic encephalopathy
+126945001||Perinatal anoxic-ischemic brain injury (disorder)
+126946000||Excessive cerumen in ear canal
+126946000||Excessive cerumen in ear canal (disorder)
+126947009||Cerebellopontine angle tumor
+126947009||Cerebellopontine angle tumour
+126947009||Cerebellopontine angle tumor (disorder)
+126948004||Cerebellopontine angle meningioma
+126948004||Cerebellopontine angle meningioma (disorder)
+126949007||Acoustic neuroma
+126949007||Vestibular schwannoma
+126949007||Acoustic neurinoma
+126949007||Acoustic neurilemmoma
+126949007||Acoustic neuroma (disorder)
+126949007||AN - Acoustic neuroma
+126949007||Acoustic schwannoma
+126950007||Neoplasm of nervous system
+126950007||Tumor of nervous system
+126950007||Tumour of nervous system
+126950007||Neoplasm of nervous system (disorder)
+126951006||Neoplasm of central nervous system
+126951006||Neoplasm of central nervous system (disorder)
+126952004||Neoplasm of brain
+126952004||Neoplasm of brain (disorder)
+126953009||Neoplasm of cerebrum
+126953009||Neoplasm of cerebrum (disorder)
+126954003||Neoplasm of frontal lobe
+126954003||Neoplasm of frontal lobe (disorder)
+126955002||Neoplasm of temporal lobe
+126955002||Neoplasm of temporal lobe (disorder)
+126956001||Neoplasm of parietal lobe
+126956001||Neoplasm of parietal lobe (disorder)
+126957005||Neoplasm of occipital lobe
+126957005||Neoplasm of occipital lobe (disorder)
+126958000||Neoplasm of cerebral ventricle
+126958000||Neoplasm of cerebral ventricle (disorder)
+126959008||Neoplasm of cerebral meninges
+126959008||Neoplasm of cerebral meninges (disorder)
+126960003||Neoplasm of cerebellum
+126960003||Neoplasm of cerebellum (disorder)
+126961004||Neoplasm of brain stem
+126961004||Neoplasm of brain stem (disorder)
+126962006||Neoplasm of spinal cord
+126962006||Spinal tumour
+126962006||Tumour of spinal cord
+126962006||Spinal tumor
+126962006||Tumor of spinal cord
+126962006||Neoplasm of spinal cord (disorder)
+126963001||Neoplasm of cauda equina
+126963001||Neoplasm of cauda equina (disorder)
+126964007||Neoplasm of spinal meninges
+126964007||Neoplasm of spinal meninges (disorder)
+126965008||Neoplasm of meninges
+126965008||Meningeal tumor
+126965008||Tumor of meninges
+126965008||Tumour of meninges
+126965008||Meningeal tumour
+126965008||Neoplasm of meninges (disorder)
+126966009||Neoplasm of cranial nerve
+126966009||Tumour of cranial nerve
+126966009||Tumor of cranial nerve
+126966009||Neoplasm of cranial nerve (disorder)
+126967000||Neoplasm of olfactory nerve
+126967000||Tumor of olfactory tract
+126967000||Tumour of olfactory tract
+126967000||Neoplasm of olfactory nerve (disorder)
+126969002||Neoplasm of oculomotor nerve
+126969002||Neoplasm of oculomotor nerve (disorder)

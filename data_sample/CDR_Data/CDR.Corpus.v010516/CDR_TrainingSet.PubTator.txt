@@ -1,0 +1,187 @@
+227508|t|Naloxone reverses the antihypertensive effect of clonidine.
+227508|a|In unanesthetized, spontaneously hypertensive rats the decrease in blood pressure and heart rate produced by intravenous clonidine, 5 to 20 micrograms/kg, was inhibited or reversed by nalozone, 0.2 to 2 mg/kg. The hypotensive effect of 100 mg/kg alpha-methyldopa was also partially reversed by naloxone. Naloxone alone did not affect either blood pressure or heart rate. In brain membranes from spontaneously hypertensive rats clonidine, 10(-8) to 10(-5) M, did not influence stereoselective binding of [3H]-naloxone (8 nM), and naloxone, 10(-8) to 10(-4) M, did not influence clonidine-suppressible binding of [3H]-dihydroergocryptine (1 nM). These findings indicate that in spontaneously hypertensive rats the effects of central alpha-adrenoceptor stimulation involve activation of opiate receptors. As naloxone and clonidine do not appear to interact with the same receptor site, the observed functional antagonism suggests the release of an endogenous opiate by clonidine or alpha-methyldopa and the possible role of the opiate in the central control of sympathetic tone.
+227508	0	8	Naloxone	Chemical	D009270
+227508	49	58	clonidine	Chemical	D003000
+227508	93	105	hypertensive	Disease	D006973
+227508	181	190	clonidine	Chemical	D003000
+227508	244	252	nalozone	Chemical	-1
+227508	274	285	hypotensive	Disease	D007022
+227508	306	322	alpha-methyldopa	Chemical	D008750
+227508	354	362	naloxone	Chemical	D009270
+227508	364	372	Naloxone	Chemical	D009270
+227508	469	481	hypertensive	Disease	D006973
+227508	487	496	clonidine	Chemical	D003000
+227508	563	576	[3H]-naloxone	Chemical	-1
+227508	589	597	naloxone	Chemical	D009270
+227508	637	646	clonidine	Chemical	D003000
+227508	671	695	[3H]-dihydroergocryptine	Chemical	-1
+227508	750	762	hypertensive	Disease	D006973
+227508	865	873	naloxone	Chemical	D009270
+227508	878	887	clonidine	Chemical	D003000
+227508	1026	1035	clonidine	Chemical	D003000
+227508	1039	1055	alpha-methyldopa	Chemical	D008750
+227508	CID	D008750	D007022
+
+354896|t|Lidocaine-induced cardiac asystole.
+354896|a|Intravenous administration of a single 50-mg bolus of lidocaine in a 67-year-old man resulted in profound depression of the activity of the sinoatrial and atrioventricular nodal pacemakers. The patient had no apparent associated conditions which might have predisposed him to the development of bradyarrhythmias; and, thus, this probably represented a true idiosyncrasy to lidocaine.
+354896	0	9	Lidocaine	Chemical	D008012
+354896	18	34	cardiac asystole	Disease	D006323
+354896	90	99	lidocaine	Chemical	D008012
+354896	142	152	depression	Disease	D003866
+354896	331	347	bradyarrhythmias	Disease	D001919
+354896	409	418	lidocaine	Chemical	D008012
+354896	CID	D008012	D006323
+
+435349|t|Suxamethonium infusion rate and observed fasciculations. A dose-response study.
+435349|a|Suxamethonium chloride (Sch) was administered i.v. to 36 adult males at six rates: 0.25 mg s-1 to 20 mg s-1. The infusion was discontinued either when there was no muscular response to tetanic stimulation of the ulnar nerve or when Sch 120 mg was exceeded. Six additional patients received a 30-mg i.v. bolus dose. Fasciculations in six areas of the body were scored from 0 to 3 and summated as a total fasciculation score. The times to first fasciculation, twitch suppression and tetanus suppression were inversely related to the infusion rates. Fasciculations in the six areas and the total fasciculation score were related directly to the rate of infusion. Total fasciculation scores in the 30-mg bolus group and the 5-mg s-1 and 20-mg s-1 infusion groups were not significantly different.
+435349	0	13	Suxamethonium	Chemical	D013390
+435349	41	55	fasciculations	Disease	D005207
+435349	80	102	Suxamethonium chloride	Chemical	D013390
+435349	104	107	Sch	Chemical	D013390
+435349	265	272	tetanic	Disease	D013746
+435349	312	315	Sch	Chemical	D013390
+435349	395	409	Fasciculations	Disease	D005207
+435349	483	496	fasciculation	Disease	D005207
+435349	523	536	fasciculation	Disease	D005207
+435349	538	544	twitch	Disease	D013746
+435349	561	568	tetanus	Disease	D013746
+435349	627	641	Fasciculations	Disease	D005207
+435349	673	686	fasciculation	Disease	D005207
+435349	746	759	fasciculation	Disease	D005207
+435349	CID	D013390	D005207
+
+603022|t|Galanthamine hydrobromide, a longer acting anticholinesterase drug, in the treatment of the central effects of scopolamine (Hyoscine).
+603022|a|Galanthamine hydrobromide, an anticholinesterase drug capable of penetrating the blood-brain barrier, was used in a patient demonstrating central effects of scopolamine (hyoscine) overdosage. It is longer acting than physostigmine and is used in anaesthesia to reverse the non-depolarizing neuromuscular block. However, studies into the dose necessary to combating scopolamine intoxication are indicated.
+603022	0	25	Galanthamine hydrobromide	Chemical	D005702
+603022	111	122	scopolamine	Chemical	D012601
+603022	124	132	Hyoscine	Chemical	D012601
+603022	135	160	Galanthamine hydrobromide	Chemical	D005702
+603022	292	303	scopolamine	Chemical	D012601
+603022	305	313	hyoscine	Chemical	D012601
+603022	315	325	overdosage	Disease	D062787
+603022	352	365	physostigmine	Chemical	D010830
+603022	500	511	scopolamine	Chemical	D012601
+603022	CID	D012601	D062787
+
+1378968|t|Effects of uninephrectomy and high protein feeding on lithium-induced chronic renal failure in rats.
+1378968|a|Rats with lithium-induced nephropathy were subjected to high protein (HP) feeding, uninephrectomy (NX) or a combination of these, in an attempt to induce glomerular hyperfiltration and further progression of renal failure. Newborn female Wistar rats were fed a lithium-containing diet (50 mmol/kg) for 8 weeks and then randomized to normal diet, HP diet (40 vs. 19%), NX or HP+NX for another 8 weeks. Corresponding non-lithium pretreated groups were generated. When comparing all lithium treated versus non-lithium-treated groups, lithium caused a reduction in glomerular filtration rate (GFR) without significant changes in effective renal plasma flow (as determined by a marker secreted into the proximal tubules) or lithium clearance. Consequently, lithium pretreatment caused a fall in filtration fraction and an increase in fractional Li excretion. Lithium also caused proteinuria and systolic hypertension in absence of glomerulosclerosis. HP failed to accentuante progression of renal failure and in fact tended to increase GFR and decrease plasma creatinine levels in lithium pretreated rats. NX caused an additive deterioration in GFR which, however, was ameliorated by HP. NX+HP caused a further rise in blood pressure in Li-pretreated rats. The results indicate that Li-induced nephropathy, even when the GFR is only modestly reduced, is associated with proteinuria and arterial systolic hypertension. In this model of chronic renal failure the decline in GFR is not accompanied by a corresponding fall in effective renal plasma flow, which may be the functional expression of the formation of nonfiltrating atubular glomeruli. The fractional reabsorption of tubular fluid by the proximal tubules is reduced, leaving the distal delivery unchanged.(ABSTRACT TRUNCATED AT 250 WORDS)
+1378968	54	61	lithium	Chemical	D008094
+1378968	70	91	chronic renal failure	Disease	D007676
+1378968	111	118	lithium	Chemical	D008094
+1378968	127	138	nephropathy	Disease	D007674
+1378968	309	322	renal failure	Disease	D051437
+1378968	362	369	lithium	Chemical	D008094
+1378968	520	527	lithium	Chemical	D008094
+1378968	581	588	lithium	Chemical	D008094
+1378968	608	615	lithium	Chemical	D008094
+1378968	632	639	lithium	Chemical	D008094
+1378968	820	827	lithium	Chemical	D008094
+1378968	853	860	lithium	Chemical	D008094
+1378968	941	943	Li	Chemical	D008094
+1378968	955	962	Lithium	Chemical	D008094
+1378968	975	986	proteinuria	Disease	D011507
+1378968	1000	1012	hypertension	Disease	D006973
+1378968	1027	1045	glomerulosclerosis	Disease	D005921
+1378968	1087	1100	renal failure	Disease	D051437
+1378968	1156	1166	creatinine	Chemical	D003404
+1378968	1177	1184	lithium	Chemical	D008094
+1378968	1333	1335	Li	Chemical	D008094
+1378968	1379	1381	Li	Chemical	D008094
+1378968	1390	1401	nephropathy	Disease	D007674
+1378968	1466	1477	proteinuria	Disease	D011507
+1378968	1500	1512	hypertension	Disease	D006973
+1378968	1531	1552	chronic renal failure	Disease	D007676
+1378968	CID	D008094	D006973
+1378968	CID	D008094	D011507
+1378968	CID	D008094	D007676
+
+1420741|t|Treatment of Crohn's disease with fusidic acid: an antibiotic with immunosuppressive properties similar to cyclosporin.
+1420741|a|Fusidic acid is an antibiotic with T-cell specific immunosuppressive effects similar to those of cyclosporin. Because of the need for the development of new treatments for Crohn's disease, a pilot study was undertaken to estimate the pharmacodynamics and tolerability of fusidic acid treatment in chronic active, therapy-resistant patients. Eight Crohn's disease patients were included. Fusidic acid was administered orally in a dose of 500 mg t.d.s. and the treatment was planned to last 8 weeks. The disease activity was primarily measured by a modified individual grading score. Five of 8 patients (63%) improved during fusidic acid treatment: 3 at two weeks and 2 after four weeks. There were no serious clinical side effects, but dose reduction was required in two patients because of nausea. Biochemically, an increase in alkaline phosphatases was noted in 5 of 8 cases (63%), and the greatest increases were seen in those who had elevated levels prior to treatment. All reversed to pre-treatment levels after cessation of treatment. The results of this pilot study suggest that fusidic acid may be of benefit in selected chronic active Crohn's disease patients in whom conventional treatment is ineffective. Because there seems to exist a scientific rationale for the use of fusidic acid at the cytokine level in inflammatory bowel disease, we suggest that the role of this treatment should be further investigated.
+1420741	13	28	Crohn's disease	Disease	D003424
+1420741	34	46	fusidic acid	Chemical	D005672
+1420741	107	118	cyclosporin	Chemical	D016572
+1420741	217	228	cyclosporin	Chemical	D016572
+1420741	292	307	Crohn's disease	Disease	D003424
+1420741	391	403	fusidic acid	Chemical	D005672
+1420741	467	482	Crohn's disease	Disease	D003424
+1420741	507	519	Fusidic acid	Chemical	D005672
+1420741	743	755	fusidic acid	Chemical	D005672
+1420741	910	916	nausea	Disease	D009325
+1420741	1205	1217	fusidic acid	Chemical	D005672
+1420741	1263	1278	Crohn's disease	Disease	D003424
+1420741	1402	1414	fusidic acid	Chemical	D005672
+1420741	1440	1466	inflammatory bowel disease	Disease	D015212
+1420741	CID	D005672	D009325
+
+1601297|t|Electrocardiographic evidence of myocardial injury in psychiatrically hospitalized cocaine abusers.
+1601297|a|The electrocardiograms (ECG) of 99 cocaine-abusing patients were compared with the ECGs of 50 schizophrenic controls. Eleven of the cocaine abusers and none of the controls had ECG evidence of significant myocardial injury defined as myocardial infarction, ischemia, and bundle branch block.
+1601297	33	50	myocardial injury	Disease	D009202
+1601297	83	90	cocaine	Chemical	D003042
+1601297	135	142	cocaine	Chemical	D003042
+1601297	194	207	schizophrenic	Disease	D012559
+1601297	232	239	cocaine	Chemical	D003042
+1601297	305	322	myocardial injury	Disease	D009202
+1601297	334	355	myocardial infarction	Disease	D009203
+1601297	357	365	ischemia	Disease	D007511
+1601297	371	390	bundle branch block	Disease	D002037
+1601297	CID	D003042	D009203
+1601297	CID	D003042	D002037
+
+1967484|t|Sulpiride-induced tardive dystonia.
+1967484|a|Sulpiride is a selective D2-receptor antagonist with antipsychotic and antidepressant properties. Although initially thought to be free of extrapyramidal side effects, sulpiride-induced tardive dyskinesia and parkinsonism have been reported occasionally. We studied a 37-year-old man who developed persistent segmental dystonia within 2 months after starting sulpiride therapy. We could not find any previous reports of sulpiride-induced tardive dystonia.
+1967484	0	9	Sulpiride	Chemical	D013469
+1967484	18	34	tardive dystonia	Disease	D004421
+1967484	36	45	Sulpiride	Chemical	D013469
+1967484	107	121	antidepressant	Chemical	D000928
+1967484	204	213	sulpiride	Chemical	D013469
+1967484	222	240	tardive dyskinesia	Disease	D004409
+1967484	245	257	parkinsonism	Disease	D010302
+1967484	355	363	dystonia	Disease	D004421
+1967484	395	404	sulpiride	Chemical	D013469
+1967484	456	465	sulpiride	Chemical	D013469
+1967484	474	490	tardive dystonia	Disease	D004421
+1967484	CID	D013469	D004421
+
+2234245|t|Ocular and auditory toxicity in hemodialyzed patients receiving desferrioxamine.
+2234245|a|During an 18-month period of study 41 hemodialyzed patients receiving desferrioxamine (10-40 mg/kg BW/3 times weekly) for the first time were monitored for detection of audiovisual toxicity. 6 patients presented clinical symptoms of visual or auditory toxicity. Moreover, detailed ophthalmologic and audiologic studies disclosed abnormalities in 7 more asymptomatic patients. Visual toxicity was of retinal origin and was characterized by a tritan-type dyschromatopsy, sometimes associated with a loss of visual acuity and pigmentary retinal deposits. Auditory toxicity was characterized by a mid- to high-frequency neurosensorial hearing loss and the lesion was of the cochlear type. Desferrioxamine withdrawal resulted in a complete recovery of visual function in 1 patient and partial recovery in 3, and a complete reversal of hearing loss in 3 patients and partial recovery in 3. This toxicity appeared in patients receiving the higher doses of desferrioxamine or coincided with the normalization of ferritin or aluminium serum levels. The data indicate that audiovisual toxicity is not an infrequent complication in hemodialyzed patients receiving desferrioxamine. Periodical audiovisual monitoring should be performed on hemodialyzed patients receiving the drug in order to detect adverse effects as early as possible.
+2234245	0	28	Ocular and auditory toxicity	Disease	D014786|D006311	Ocular toxicity|auditory toxicity
+2234245	64	79	desferrioxamine	Chemical	D003676
+2234245	151	166	desferrioxamine	Chemical	D003676
+2234245	250	270	audiovisual toxicity	Disease	D014786|D006311
+2234245	314	341	visual or auditory toxicity	Disease	D014786|D006311	visual toxicity|auditory toxicity
+2234245	457	472	Visual toxicity	Disease	D014786
+2234245	534	548	dyschromatopsy	Disease	-1
+2234245	576	599	a loss of visual acuity	Disease	D014786
+2234245	604	631	pigmentary retinal deposits	Disease	D012164
+2234245	633	650	Auditory toxicity	Disease	D006311
+2234245	697	724	neurosensorial hearing loss	Disease	D006319
+2234245	766	781	Desferrioxamine	Chemical	D003676
+2234245	911	923	hearing loss	Disease	D034381
+2234245	970	978	toxicity	Disease	D064420
+2234245	1030	1045	desferrioxamine	Chemical	D003676
+2234245	1097	1106	aluminium	Chemical	-1
+2234245	1144	1164	audiovisual toxicity	Disease	D014786|D006311
+2234245	1234	1249	desferrioxamine	Chemical	D003676
+2234245	CID	D003676	D012164
+2234245	CID	D003676	D014786
+2234245	CID	D003676	D006319
+
+2385256|t|Myasthenia gravis presenting as weakness after magnesium administration.
+2385256|a|We studied a patient with no prior history of neuromuscular disease who became virtually quadriplegic after parenteral magnesium administration for preeclampsia. The serum magnesium concentration was 3.0 mEq/L, which is usually well tolerated. The magnesium was stopped and she recovered over a few days. While she was weak, 2-Hz repetitive stimulation revealed a decrement without significant facilitation at rapid rates or after exercise, suggesting postsynaptic neuromuscular blockade. After her strength returned, repetitive stimulation was normal, but single fiber EMG revealed increased jitter and blocking. Her acetylcholine receptor antibody level was markedly elevated. Although paralysis after magnesium administration has been described in patients with known myasthenia gravis, it has not previously been reported to be the initial or only manifestation of the disease. Patients who are unusually sensitive to the neuromuscular effects of magnesium should be suspected of having an underlying disorder of neuromuscular transmission.
+2385256	0	17	Myasthenia gravis	Disease	D009157
+2385256	47	56	magnesium	Chemical	D008274
+2385256	119	140	neuromuscular disease	Disease	D009468
+2385256	162	174	quadriplegic	Disease	D011782
+2385256	192	201	magnesium	Chemical	D008274
+2385256	221	233	preeclampsia	Disease	D011225
+2385256	245	254	magnesium	Chemical	D008274
+2385256	321	330	magnesium	Chemical	D008274
+2385256	525	560	postsynaptic neuromuscular blockade	Disease	D009468
+2385256	691	704	acetylcholine	Chemical	D000109
+2385256	761	770	paralysis	Disease	D010243
+2385256	777	786	magnesium	Chemical	D008274
+2385256	844	861	myasthenia gravis	Disease	D009157
+2385256	1024	1033	magnesium	Chemical	D008274
+2385256	1078	1116	disorder of neuromuscular transmission	Disease	D020511
+2385256	CID	D008274	D009157
+
