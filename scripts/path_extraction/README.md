@@ -2,6 +2,19 @@
 
 Extract hierarchical root→leaf paths for vocabularies using codes from the combined mapping file produced by dataset processing.
 
+Accepted at IJCNLP–AACL 2025 (MedPath). Preprint forthcoming on arXiv.
+
+## Table of Contents
+
+- Overview
+- Supported Vocabularies and Backends
+- Configuration (credentials, versions/branches)
+- File-based Vocabularies: Required Files and Layout
+- Building the MeSH Tree Map
+- CLI Usage and Examples
+- Outputs (structure and logs)
+- Tips and Troubleshooting
+
 ## Overview
 
 - Entry point: `scripts/path_extraction/extract_hierarchical_paths.py`
@@ -42,6 +55,9 @@ Copy `scripts/configs/credentials.template.yaml` to `scripts/configs/credentials
 - NCI/HPO/GO/LCH_NW/ICD local file paths under `local_files` (resolved relative to `MedPath/path_data` by default)
 
 CLI `--version` sets `versions.GLOBAL_VERSION_OVERRIDE` at runtime as a fallback for supported extractors.
+
+Notes on naming and aliases:
+- Use canonical names without legacy “_V2” suffixes (e.g., `SNOMED_CT`). Aliases remain supported (e.g., `SNOMEDCT_US`, `MESH`/`MSH`).
 
 ## File-based vocabularies: required files and layout
 
@@ -123,9 +139,15 @@ MedPath/data_processed/hierarchical_paths{_suffix}/
 ```
 
 Notes:
-- Logs are written per vocabulary under `<vocab>/logs`. No top-level `results/` or `progress/` directories are created.
-- The orchestrator tolerates different mapping shapes (codes list vs dict-of-codes with TTY).
+- Logs are written both by the orchestrator (`hierarchical_paths{_suffix}/logs/`) and per vocabulary (`<vocab>/logs/`).
+- The orchestrator tolerates different mapping shapes (codes list vs dict-of-codes with TTY) and common aliases (e.g., `MSH`/`MESH`, `SNOMED_CT`/`SNOMEDCT_US`).
 - MeSH runs in offline mode by default; enable the API only if needed.
+
+## Tips and Troubleshooting
+
+- Ensure `combined_cui_to_vocab_codes_with_tty.json` comes from the same `{_suffix}` run you intend to extract from.
+- For API-backed vocabularies, verify credentials and optional version/branch settings before running.
+- If CUIs processed appear as 0 for a vocabulary, verify the mapping file contains codes for that vocabulary (aliases are supported but must match).
 
 ## Tips
 

@@ -4,10 +4,13 @@ data_processed/
 path_data/
 # Credentials (private)
 scripts/configs/credentials.yaml
-
+scripts/configs/combined_cui_to_tuis.json
+scripts/configs/ner_config.json
 # Logs (root and nested)
 logs/
 **/logs/
+
+
 
 
 
