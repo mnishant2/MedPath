@@ -283,7 +283,7 @@ If you use MedPath (scripts or processed datasets) in your research, please cite
 
 ```bibtex
 @inproceedings{mishra2025medpath,
-  title     = {MedPath: A Unified Pipeline for Biomedical Entity Linking and Hierarchical Path Extraction},
+  title     = {MedPath: Multi-Domain Cross-Vocabulary Hierarchical Paths for Biomedical Entity Linking},
   author    = {Mishra, Nishant},
   booktitle = {Proceedings of the IJCNLP--AACL 2025},
   year      = {2025},
