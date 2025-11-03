@@ -66,7 +66,7 @@ Notes on naming and aliases:
 
 ## File-based vocabularies: required files and layout
 
-Place files under `MedPath/path_data/` (use the repository’s `path_data` as a template). URLs are intentionally left blank for you to fill.
+Place files under `MedPath/path_data/` . The tree below shows filenames; see the download links right after the tree for clickable URLs.
 
 ```text
 MedPath/path_data/
@@ -82,6 +82,14 @@ MedPath/path_data/
   icd10cm-Code Descriptions-2026/
     icd10cm-codes-2026.txt                # ICD-10 codes+names — URL: https://www.cdc.gov/nchs/icd/icd-10-cm/files.html
 ```
+Download links:
+- NCI Thesaurus OWL (`Thesaurus.owl`): https://evs.nci.nih.gov/evs-download/thesaurus-downloads
+- MeSH XML (`desc2025.xml`): https://www.nlm.nih.gov/databases/download/mesh.html
+- GO OBO (`go-basic.obo`): https://geneontology.org/docs/download-ontology/
+- HPO OBO (`hp.obo`): https://hpo.jax.org/data/ontology
+- LCH/NW JSON-LD (`subjects.skosrdf.jsonld`): https://id.loc.gov/authorities/subjects.html
+- ICD-9-CM descriptions (CMS32 files): https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles
+- ICD-10-CM code descriptions: https://www.cdc.gov/nchs/icd/icd-10-cm/files.html
 
 ### Building the MeSH tree map (offline)
 
