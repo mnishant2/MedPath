@@ -110,11 +110,6 @@ Preserve the original download structure exactly (as in `EL_gen/data`). Do not r
     mimic-iv_notes_training_set.csv
     train_annotations.csv
 
-  MIMICIV_EL_cleaned/
-    mimic-iv_notes_training_set_cleaned.csv
-    train_annotations_cleaned.csv
-    train_annotations_with_original.csv
-
   MIMICIV_EL_cleaned_no_placeholders/
     mimic-iv_notes_training_set_cleaned.csv
     train_annotations_cleaned.csv
