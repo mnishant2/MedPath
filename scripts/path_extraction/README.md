@@ -26,13 +26,20 @@ Accepted at IJCNLP–AACL 2025 (MedPath). Preprint forthcoming on arXiv.
 
 - SNOMED CT (`SNOMEDCT_US`, `SNOMED_CT`) — API (Snowstorm). Requires base URL in credentials; supports versioned branches.
 - MeSH (`MSH`, `MESH`) — Offline-first. Builds paths from MeSH tree numbers using `desc{year}.xml` and a cached pickle. MeSH API for tree numbers is optional and disabled by default.
+  Download Link: https://www.nlm.nih.gov/databases/download/mesh.html
 - NCI Thesaurus (`NCI`) — Local OWL file (`Thesaurus.owl`).
+  Download Link: https://evs.nci.nih.gov/evs-download/thesaurus-downloads
 - LOINC (`LNC`, `LOINC`) — API (FHIR). Requires username/password in credentials; supports `systemVersion`.
 - MedDRA (`MDR`, `MEDDRA`) — API (MAPIs). Requires token in credentials; uses configured version.
-- HPO (`HPO`) — Local OBO file (`hp.obo`).
+- NCBI Taxonomy (`NCBI`) — API (NCBI E-utilities). Optional `api_key` recommended. Snapshot is metadata-only (no branchable versions).
+- HPO (`HPO`) — Local OBO file (`hp.obo`), 
+  Download Link: https://hpo.jax.org/data/ontology
 - GO (`GO`) — Local OBO file (`go-basic.obo`).
+  Download Link: https://geneontology.org/docs/download-ontology/
 - LCH_NW (`LCH_NW`) — Local JSON-LD file (`subjects.skosrdf.jsonld`).
+  Download Link: https://id.loc.gov/authorities/subjects.html (Bulk Exports section(SKOS/RDF JSONLD))
 - ICD (`ICD9CM`, `ICD10CM`) — Local text files.
+  Download Link: https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles(ICD9CM), https://www.cdc.gov/nchs/icd/icd-10-cm/files.html(ICD10CM)
 
 ## Configuration
 
@@ -52,6 +59,10 @@ Copy `scripts/configs/credentials.template.yaml` to `scripts/configs/credentials
 - MedDRA:
   - `apis.meddra.token` (see template for curl token instructions)
   - `apis.meddra.base_url`, `apis.meddra.version`
+- NCBI Taxonomy:
+  - `apis.ncbi.base_url` (default: `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/`)
+  - Optional: `apis.ncbi.api_key` (recommended for higher rate limits)
+  - Optional metadata: `versions.NCBI_taxonomy_snapshot` (e.g., `2025-10-01`) used for logging/reporting
 - NCI/HPO/GO/LCH_NW/ICD local file paths under `local_files` (resolved relative to `MedPath/path_data` by default)
 
 CLI `--version` sets `versions.GLOBAL_VERSION_OVERRIDE` at runtime as a fallback for supported extractors.
@@ -93,7 +104,7 @@ MeSH extraction uses the local tree cache by default and yields the same paths a
 
 ```bash
 python -u scripts/path_extraction/extract_hierarchical_paths.py \
-  --vocabs MSH NCI LCH_NW HPO GO SNOMEDCT_US ICD9CM ICD10CM LNC MDR \
+  --vocabs MSH NCI LCH_NW HPO GO SNOMEDCT_US ICD9CM ICD10CM LNC MDR NCBI \
   --mappings_path ./data_processed/mappings_sample/combined_cui_to_vocab_codes_with_tty.json \
   --output ./data_processed/hierarchical_paths \
   --subdir_suffix _sample \
@@ -134,6 +145,10 @@ MedPath/data_processed/hierarchical_paths{_suffix}/
   meddra/
     results/                   # MDR_paths.json, MDR_statistics.json
     progress/                  # MDR_checkpoint.json
+    logs/
+  ncbi/
+    results/                   # NCBI_paths.json, NCBI_statistics.json
+    progress/                  # NCBI_checkpoint.json
     logs/
   ...
 ```

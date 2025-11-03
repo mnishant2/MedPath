@@ -22,29 +22,23 @@ Accepted at IJCNLP–AACL 2025. Preprint forthcoming on arXiv.
 The following datasets are supported. We are not sharing the datasets, since some of them have Data Usage Agreements, but they can be easily downloaded from the links shared below.
 
 - CDR (Chemical–Disease Relation)
-  - Download: 
-  - License: 
+  - Download: https://github.com/JHnlp/BioCreative-V-CDR-Corpus
 - NCBI Disease
-  - Download: 
-  - License: 
-- MedMentions
-  - Download: 
-  - License: 
-- ADR (Adverse Drug Reaction)
-  - Download: 
-  - License: 
+  - Download: https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/
+- MedMentions (CC0 1.0 Universal License)
+  - Download: https://github.com/chanzuckerberg/MedMentions
+- ADR (TAC Adverse Drug Reaction 2017)
+  - Download: https://bionlp.nlm.nih.gov/tac2017adversereactions/
 - COMETA
-  - Download: 
-  - License: 
-- Mantra-GSC (English)
-  - Download: 
-  - License: 
-- SHARE/CLEF eHealth
-  - Download: 
-  - License: 
-- MIMIC-IV-EL
-  - Download: 
-  - License: 
+  - Download: https://github.com/cambridgeltl/cometa
+- Mantra-GSC (English Subset,GNU General Public License v3.0)
+  - Download: https://github.com/mi-erasmusmc/Mantra-Gold-Standard-Corpus
+- ShAReCLEF eHealth 2013: Natural Language Processing and Information Retrieval for Clinical Care (PhysioNet Credentialed Health Data License 1.5.0)
+  - Download: https://physionet.org/content/shareclefehealth2013/1.0/
+- MIMIC-IV-EL (SNOMED CT Entity Linking Challenge, PhysioNet Credentialed Health Data License 1.5.0)
+  - Download: https://physionet.org/content/snomed-ct-entity-challenge/1.0.0/
+- CADEC
+  - Download: https://data.csiro.au/collection/csiro:10948 (CSIRO Adverse Drug Event Corpus, CSIRO Data Licence)
 
 Cleaning scripts (pre-processing cleanup while preserving mention offsets):
 - MIMIC-IV-EL: `scripts/utils/clean_mimiciv_el.py`
@@ -118,6 +112,15 @@ Preserve the original download structure exactly (as in `EL_gen/data`). Do not r
     notes/
     annotations/
     ...
+  CADEC/
+    AMT-SCT/
+    cadec/
+      meddra/
+      original/
+      sct/
+      text/
+    MedDRA/
+    Original
 ```
 
 Notes:
@@ -214,12 +217,12 @@ Key arguments:
 
 Which vocabularies are API- vs file-based?
 - API first (requires credentials in `scripts/configs/credentials.yaml`):
-  - SNOMED CT (Snowstorm), LOINC (FHIR), MedDRA (MAPIs), optionally MeSH tree numbers (disabled by default)
+  - SNOMED CT (Snowstorm), LOINC (FHIR), MedDRA (MAPIs), NCBI Taxonomy (E-utilities), optionally MeSH tree numbers (disabled by default)
 - Local files first:
   - MeSH paths (built from `desc{year}.xml` + cached pickle), NCI (OWL), HPO (OBO), GO (OBO), LCH_NW (JSON-LD), ICD-9/10 (local text files)
 
 Credentials: copy and fill `scripts/configs/credentials.yaml` from `scripts/configs/credentials.template.yaml`.
-- Includes MeSH offline config (default) and MedDRA token instructions.
+- Includes MeSH offline config (default), MedDRA token instructions, and NCBI E-utilities fields (`api_key`).
 
 Output directory structure:
 ```text

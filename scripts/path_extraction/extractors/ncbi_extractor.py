@@ -29,10 +29,12 @@ class NCBIExtractor(BaseExtractor):
         self.timeout = 30  # Timeout for API operations
         self.rate_limit_delay = 0.2  # Respectful delay for NCBI API
         
-        # Get NCBI-specific configuration
+        # Get NCBI-specific configuration (no hardcoded secrets)
         ncbi_config = config.get('apis', {}).get('ncbi', {})
-        self.api_key = ncbi_config.get('api_key', '734e863dd2e3d2a37d87f226887d51d19408')
-        self.base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+        self.api_key = ncbi_config.get('api_key')
+        self.base_url = ncbi_config.get('base_url', "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/")
+        # Optional snapshot/version metadata for logging/reporting only
+        self.ncbi_snapshot = config.get('versions', {}).get('NCBI_taxonomy_snapshot', '')
         
         # Multi-level caching for performance
         self.path_cache = {}  # Cache computed paths
@@ -69,7 +71,7 @@ class NCBIExtractor(BaseExtractor):
         self.max_path_length = 200  # Reasonable depth for NCBI taxonomies
         self.max_paths_per_code = 2000  # Same as SNOMED limit
         
-        self.logger.info(f"Initialized NCBI extractor with API key: {self.api_key[:8]}...")
+        self.logger.info("Initialized NCBI extractor (E-utilities)")
         self.logger.info(f"Configuration: max_retries={self.max_retries}, rate_limit={self.rate_limit_delay}s")
         
     def _setup_enhanced_logging(self):
@@ -251,13 +253,15 @@ class NCBIExtractor(BaseExtractor):
         Get NCBI taxonomic paths - works for most organisms.
         Returns paths in ROOT->LEAF format (consistent with other vocabularies).
         """
-        url = f"{self.base_url}efetch.fcgi"
+        url = f"{self.base_url.rstrip('/')}" + "/efetch.fcgi"
         params = {
             'db': 'taxonomy',
             'id': taxid,
             'retmode': 'xml',
-            'api_key': self.api_key
         }
+        # API key is optional but recommended for higher rate limits
+        if self.api_key:
+            params['api_key'] = self.api_key
         
         # Apply rate limiting
         time.sleep(self.rate_limit_delay)
@@ -388,6 +392,5 @@ class NCBIExtractor(BaseExtractor):
         return enhanced_stats
 
 
-# Register the enhanced extractor
+# Register the extractor
 ExtractorRegistry.register('NCBI', NCBIExtractor)
-ExtractorRegistry.register('NCBI_V2', NCBIExtractor)  # Alternative name (kept for compatibility)
