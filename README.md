@@ -96,6 +96,10 @@ Preserve the original download structure exactly (as in `EL_gen/data`). Do not r
   Mantra-GSC/
     Dutch/
     English/
+      EMEA_ec22-cui-best_man/
+      Medline_EN_DE_ec22-cui-best_man/
+      Patents_ec22-cui-best_man/
+      ..
     French/
     German/
     Spanish/
@@ -122,15 +126,19 @@ Preserve the original download structure exactly (as in `EL_gen/data`). Do not r
 
   shareclef/
     training_corpus/
+      train/
+      train_ann/
     test_corpus/
-    all_disorders.csv
-    train_disorders.csv
+      test/
+      test_ann/
 
   shareclef_cleaned/
     training_corpus/
+      train/
+      train_ann/
     test_corpus/
-    all_disorders.csv
-    train_disorders.csv
+      test/
+      test_ann/
 ```
 
 Notes:
