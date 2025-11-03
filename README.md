@@ -42,28 +42,20 @@ The following datasets are supported. We are not sharing the datasets, since som
 
 Cleaning scripts (pre-processing cleanup while preserving mention offsets):
 - MIMIC-IV-EL: `scripts/utils/clean_mimiciv_el.py`
+  - Removes anonymization placeholders and normalizes whitespace; recalculates offsets.
 - SHARE/CLEF: `scripts/utils/clean_shareclef.py`
+  - Cleans document text and adjusts discontinuous offsets while preserving mention spans.
 - ADR: `scripts/utils/clean_adr.py`
+  - Normalizes spacing; splits discontinuous mentions and adjusts offsets in XML.
 
-These remove noisy characters and spacing while retaining exact character offsets used for mentions.
+Usage (no CLI arguments):
+- Open each script and edit the `data_dir` and `output_dir` variables near the bottom if needed.
+- Then run the script directly, e.g.:
+  - `python scripts/utils/clean_mimiciv_el.py`
+  - `python scripts/utils/clean_shareclef.py`
+  - `python scripts/utils/clean_adr.py`
 
-Example usage (adjust input/output paths):
-```bash
-# MIMIC-IV-EL
-python scripts/utils/clean_mimiciv_el.py \
-  --input /path/to/raw/mimic_iv_el \
-  --output /path/to/clean/MIMICIV_EL_cleaned_no_placeholders
-
-# SHARE/CLEF
-python scripts/utils/clean_shareclef.py \
-  --input /path/to/raw/shareclef \
-  --output /path/to/clean/shareclef_cleaned
-
-# ADR
-python scripts/utils/clean_adr.py \
-  --input /path/to/raw/adr \
-  --output /path/to/clean/ADR_cleaned
-```
+These scripts remove noisy characters and spacing while retaining exact character offsets for mentions.
 
 ## Data directory layout (expected before processing)
 
@@ -71,25 +63,28 @@ Preserve the original download structure exactly (as in `EL_gen/data`). Do not r
 
 ```text
 <data_root>/
-  CDR_Data/
-    CDR.Corpus.v010516/
-      CDR_TrainingSet.PubTator.txt
-      CDR_DevelopmentSet.PubTator.txt
-      CDR_TestSet.PubTator.txt
-
-  NCBI/
-    train/
-    dev/
-    test/
-
-  medmentions/
-    corpus/
-    st21pv/
+  ADR/
+    gold_xml/
+    train_xml/
 
   ADR_cleaned/
-    train/
-    dev/
     test/
+    train/
+
+  CADEC/
+    AMT-SCT/
+    cadec/
+      meddra/
+      original/
+      sct/
+      text/
+    MedDRA/
+    Original/
+
+  CDR_Data/
+    CDR.Corpus.v010516/
+    DNorm.TestSet/
+    tmChem.TestSet/
 
   cometa/
     splits/
@@ -99,34 +94,54 @@ Preserve the original download structure exactly (as in `EL_gen/data`). Do not r
         test/
 
   Mantra-GSC/
-    en/
-      train/
-      dev/
-      test/
+    Dutch/
+    English/
+    French/
+    German/
+    Spanish/
 
-  shareclef_cleaned/
-    train/
-    test/
+  medmentions/
+    corpus_pubtator.txt
+    corpus_pubtator_pmids_trng.txt
+    corpus_pubtator_pmids_dev.txt
+    corpus_pubtator_pmids_test.txt
+
+  MIMICIV_EL/
+    mimic-iv_notes_training_set.csv
+    train_annotations.csv
+
+  MIMICIV_EL_cleaned/
+    mimic-iv_notes_training_set_cleaned.csv
+    train_annotations_cleaned.csv
+    train_annotations_with_original.csv
 
   MIMICIV_EL_cleaned_no_placeholders/
-    notes/
-    annotations/
-    ...
-  CADEC/
-    AMT-SCT/
-    cadec/
-      meddra/
-      original/
-      sct/
-      text/
-    MedDRA/
-    Original
+    mimic-iv_notes_training_set_cleaned.csv
+    train_annotations_cleaned.csv
+    train_annotations_with_original.csv
+
+  NCBI/
+    NCBItrainset_corpus.txt
+    NCBIdevelopset_corpus.txt
+    NCBItestset_corpus.txt
+
+  shareclef/
+    training_corpus/
+    test_corpus/
+    all_disorders.csv
+    train_disorders.csv
+
+  shareclef_cleaned/
+    training_corpus/
+    test_corpus/
+    all_disorders.csv
+    train_disorders.csv
 ```
 
 Notes:
 - The processors remap relative `DATASET_CONFIGS` paths under `--data_dir` but expect the inner trees to match the original downloads.
 - COMETA must be under `cometa/splits/random/{train,dev,test}`.
-- If you are not using the cleaned versions of MIMIC-IV-EL, shareclef, and ADR, then change the path/names accordingly in the corresponding `scripts/dataset_processors/{dataset}_processor.py` 
+- If you are not using the cleaned versions of MIMIC-IV-EL, shareclef, and ADR, then change the path/names accordingly in the corresponding `scripts/dataset_processors/{dataset}_processor.py`.
 
 ## Processing datasets to UMLS-linked JSONL
 
@@ -248,7 +263,7 @@ python -u scripts/path_extraction/extract_hierarchical_paths.py \
   --parallel 2
 ```
 
-More details and vocabulary-specific notes are in `scripts/path_extraction/README.md`.
+More details and vocabulary-specific notes are in [scripts/path_extraction/README.md](scripts/path_extraction/README.md).
 
 ## Configuration & Credentials
 
@@ -263,4 +278,12 @@ More details and vocabulary-specific notes are in `scripts/path_extraction/READM
 
 If you use MedPath (scripts or processed datasets) in your research, please cite:
 
-Mishra, N. MedPath: A Unified Pipeline for Biomedical Entity Linking and Hierarchical Path Extraction. In Proceedings of IJCNLP–AACL 2025. arXiv:XXXXX.XXXX.
+```bibtex
+@inproceedings{mishra2025medpath,
+  title     = {MedPath: A Unified Pipeline for Biomedical Entity Linking and Hierarchical Path Extraction},
+  author    = {Mishra, Nishant},
+  booktitle = {Proceedings of the IJCNLP--AACL 2025},
+  year      = {2025},
+  note      = {arXiv:XXXX.XXXX}
+}
+```
