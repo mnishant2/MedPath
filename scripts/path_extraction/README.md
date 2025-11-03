@@ -26,20 +26,14 @@ Accepted at IJCNLP–AACL 2025 (MedPath). Preprint forthcoming on arXiv.
 
 - SNOMED CT (`SNOMEDCT_US`, `SNOMED_CT`) — API (Snowstorm). Requires base URL in credentials; supports versioned branches.
 - MeSH (`MSH`, `MESH`) — Offline-first. Builds paths from MeSH tree numbers using `desc{year}.xml` and a cached pickle. MeSH API for tree numbers is optional and disabled by default.
-  Download Link: https://www.nlm.nih.gov/databases/download/mesh.html
 - NCI Thesaurus (`NCI`) — Local OWL file (`Thesaurus.owl`).
-  Download Link: https://evs.nci.nih.gov/evs-download/thesaurus-downloads
 - LOINC (`LNC`, `LOINC`) — API (FHIR). Requires username/password in credentials; supports `systemVersion`.
 - MedDRA (`MDR`, `MEDDRA`) — API (MAPIs). Requires token in credentials; uses configured version.
 - NCBI Taxonomy (`NCBI`) — API (NCBI E-utilities). Optional `api_key` recommended. Snapshot is metadata-only (no branchable versions).
-- HPO (`HPO`) — Local OBO file (`hp.obo`), 
-  Download Link: https://hpo.jax.org/data/ontology
+- HPO (`HPO`) — Local OBO file (`hp.obo`).
 - GO (`GO`) — Local OBO file (`go-basic.obo`).
-  Download Link: https://geneontology.org/docs/download-ontology/
 - LCH_NW (`LCH_NW`) — Local JSON-LD file (`subjects.skosrdf.jsonld`).
-  Download Link: https://id.loc.gov/authorities/subjects.html (Bulk Exports section(SKOS/RDF JSONLD))
 - ICD (`ICD9CM`, `ICD10CM`) — Local text files.
-  Download Link: https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles(ICD9CM), https://www.cdc.gov/nchs/icd/icd-10-cm/files.html(ICD10CM)
 
 ## Configuration
 
@@ -76,17 +70,17 @@ Place files under `MedPath/path_data/` (use the repository’s `path_data` as a 
 
 ```text
 MedPath/path_data/
-  Thesaurus.owl                           # NCI Thesaurus OWL (NCI) — URL: 
-  desc2025.xml                            # MeSH XML (MeSH) — URL: 
+  Thesaurus.owl                           # NCI Thesaurus OWL (NCI) — URL: https://evs.nci.nih.gov/evs-download/thesaurus-downloads
+  desc2025.xml                            # MeSH XML (MeSH) — URL: https://www.nlm.nih.gov/databases/download/mesh.html
   mesh_tree_map_2025.pkl                  # Cached MeSH tree map (MeSH) — built locally (see below)
-  go-basic.obo                            # Gene Ontology OBO (GO) — URL: 
-  hp.obo                                  # HPO OBO (HPO) — URL: 
-  subjects.skosrdf.jsonld                 # LCH/NW JSON-LD (LCH_NW) — URL: 
+  go-basic.obo                            # Gene Ontology OBO (GO) — URL: https://geneontology.org/docs/download-ontology/
+  hp.obo                                  # HPO OBO (HPO) — URL: https://hpo.jax.org/data/ontology
+  subjects.skosrdf.jsonld                 # LCH/NW JSON-LD (LCH_NW) — URL: https://id.loc.gov/authorities/subjects.html (Bulk Exports section(SKOS/RDF JSONLD))
   ICD-9-CM-v32-master-descriptions/
-    CMS32_DESC_LONG_DX.txt                # ICD-9 names — URL: 
-    CMS32_DESC_SHORT_DX.txt               # ICD-9 names — URL: 
+    CMS32_DESC_LONG_DX.txt
+    CMS32_DESC_SHORT_DX.txt               # ICD-9 names — URL: https://www.cms.gov/medicare/coding-billing/icd-10-codes/icd-9-cm-diagnosis-procedure-codes-abbreviated-and-full-code-titles
   icd10cm-Code Descriptions-2026/
-    icd10cm-codes-2026.txt                # ICD-10 codes+names — URL: 
+    icd10cm-codes-2026.txt                # ICD-10 codes+names — URL: https://www.cdc.gov/nchs/icd/icd-10-cm/files.html
 ```
 
 ### Building the MeSH tree map (offline)
