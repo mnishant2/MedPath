@@ -59,7 +59,7 @@ These scripts remove noisy characters and spacing while retaining exact characte
 
 ## Data directory layout (expected before processing)
 
-Preserve the original download structure exactly (as in `EL_gen/data`). Do not rearrange files; only change the top-level root with `--data_dir` if needed. Examples below mirror the expected layout used by the processors:
+Preserve the original download structure exactly (as downloaded/extracted). Do not rearrange files; only change the top-level root with `--data_dir` if needed. Examples below mirror the expected layout used by the processors:
 
 ```text
 <data_root>/
@@ -282,11 +282,13 @@ More details and vocabulary-specific notes are in [scripts/path_extraction/READM
 If you use MedPath (scripts or processed datasets) in your research, please cite:
 
 ```bibtex
-@inproceedings{mishra2025medpath,
-  title     = {MedPath: Multi-Domain Cross-Vocabulary Hierarchical Paths for Biomedical Entity Linking},
-  author    = {Mishra, Nishant},
-  booktitle = {Proceedings of the IJCNLP--AACL 2025},
-  year      = {2025},
-  note      = {arXiv:XXXX.XXXX}
+@misc{mishra2025medpathmultidomaincrossvocabularyhierarchical,
+      title={MedPath: Multi-Domain Cross-Vocabulary Hierarchical Paths for Biomedical Entity Linking}, 
+      author={Nishant Mishra and Wilker Aziz and Iacer Calixto},
+      year={2025},
+      eprint={2511.10887},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.10887}, 
 }
 ```
