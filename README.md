@@ -1,8 +1,7 @@
 # MedPath
 
-A unified pipeline for processing biomedical datasets into UMLS-linked JSONL and extracting hierarchical ontology paths (SNOMED CT, MeSH, NCI, LOINC, MedDRA, HPO, GO, LCH_NW, ICD).
-
-Accepted at IJCNLP–AACL 2025. Preprint forthcoming on arXiv.
+A unified pipeline for processing biomedical datasets into UMLS-linked JSONL and extracting hierarchical ontology paths in 11 biomedical Knowledge Graphs for Biomedical NER and Entity Linking. 
+This repository helps to reproduce the resource from the paper MedPath: Multi-Domain Cross-Vocabulary Hierarchical Paths for Biomedical Entity Linking, accepted at IJCNLP–AACL 2025. [Preprint available here](https://arxiv.org/abs/2511.10887).
 
 ## Table of Contents
 
